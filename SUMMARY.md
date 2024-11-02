@@ -1,87 +1,87 @@
-# 目录
+# Table of contents
 
-## 欢迎
+## Welcome
 
-* [💡 介绍](README.md)
-* [🔐 安全审计](welcome/security-audits.md)
+* [💡 Introduction](README.md)
+* [🔐 Security Audits](welcome/security-audits.md)
 
 ## FEG SmartDeFi ™
 
-* [🙊 关于 FEG 代币](feg-smartdefi-tm/about-feg-token/README.md)
-  * [📈 FEG 代币经济](feg-smartdefi-tm/about-feg-token/feg-tokenomics.md)
-* [🔃 FEG 升级](feg-smartdefi-tm/feg-upgrade/README.md)
-  * [↔️ ROX 转 FEG](feg-smartdefi-tm/feg-upgrade/rox-to-feg.md)
-  * [⌛ 升级 FEGv1 在 SS/LP 中](feg-smartdefi-tm/feg-upgrade/upgrade-fegv1-in-ss-lp.md)
-* [💳 如何购买 FEG](feg-smartdefi-tm/how-to-buy-feg/README.md)
-  * [创建加密钱包](feg-smartdefi-tm/how-to-buy-feg/create-a-crypto-wallet.md)
-  * [获取 BNB/ETH](feg-smartdefi-tm/how-to-buy-feg/getting-bnb-eth.md)
-  * [使用 BNB/ETH 购买 FEG](feg-smartdefi-tm/how-to-buy-feg/use-bnb-eth-to-buy-feg.md)
-* [💰 FEG 抵押](feg-smartdefi-tm/feg-staking/README.md)
-  * [🔀 FEG 抵押导航](feg-smartdefi-tm/feg-staking/navigate.md)
-* [💸 流动性债券](feg-smartdefi-tm/liquidity-bonds.md)
+* [🙊 About FEG token](feg-smartdefi-tm/about-feg-token/README.md)
+  * [📈 FEG Tokenomics](feg-smartdefi-tm/about-feg-token/feg-tokenomics.md)
+* [🔃 FEG Upgrade](feg-smartdefi-tm/feg-upgrade/README.md)
+  * [↔️ ROX to FEG](feg-smartdefi-tm/feg-upgrade/rox-to-feg.md)
+  * [⌛ Upgrade FEGv1 in SS/LP](feg-smartdefi-tm/feg-upgrade/upgrade-fegv1-in-ss-lp.md)
+* [💳 How To Buy FEG](feg-smartdefi-tm/how-to-buy-feg/README.md)
+  * [Create a crypto wallet](feg-smartdefi-tm/how-to-buy-feg/create-a-crypto-wallet.md)
+  * [Getting BNB/ETH](feg-smartdefi-tm/how-to-buy-feg/getting-bnb-eth.md)
+  * [Use BNB/ETH to buy FEG](feg-smartdefi-tm/how-to-buy-feg/use-bnb-eth-to-buy-feg.md)
+* [💰 FEG Staking](feg-smartdefi-tm/feg-staking/README.md)
+  * [🔀 FEG Staking Navigation](feg-smartdefi-tm/feg-staking/navigate.md)
+* [💸 Liquidity Bonds](feg-smartdefi-tm/liquidity-bonds.md)
 
-## SmartDeFi 平台
+## SmartDeFi ™ Platform
 
-* [🌟 SmartDeFi 协议](smartdefi-tm-platform/smartdefi-protocol/README.md)
-  * [💵 资产支持](smartdefi-tm-platform/smartdefi-protocol/asset-backing.md)
+* [🌟 SmartDeFi Protocol](smartdefi-tm-platform/smartdefi-protocol/README.md)
+  * [💵 Asset-Backing](smartdefi-tm-platform/smartdefi-protocol/asset-backing.md)
   * [🏦 SmartLending](smartdefi-tm-platform/smartdefi-protocol/smartlending.md)
-  * [🎁 抵押](smartdefi-tm-platform/smartdefi-protocol/staking.md)
-* [🚀 代币启动平台](smartdefi-tm-platform/token-launchpad/README.md)
-  * [〽️ 创建代币](smartdefi-tm-platform/token-launchpad/create-a-token.md)
-  * [💵 私人流动性启动](smartdefi-tm-platform/token-launchpad/private-liquidity-launch.md)
-  * [💰 预售启动](smartdefi-tm-platform/token-launchpad/presale-launch/README.md)
-    * [👤 开发者的 LGE](smartdefi-tm-platform/token-launchpad/presale-launch/lge-for-devs.md)
-    * [👥 投资者的 LGE](smartdefi-tm-platform/token-launchpad/presale-launch/lge-for-investors.md)
-  * [🪙 启用抵押](smartdefi-tm-platform/token-launchpad/enable-staking.md)
-  * [💸 费用转换器](smartdefi-tm-platform/token-launchpad/fee-converter.md)
-  * [📖 SDscan 工具](smartdefi-tm-platform/token-launchpad/sdscan-tool/README.md)
-    * [🔶 代币](smartdefi-tm-platform/token-launchpad/sdscan-tool/token.md)
-    * [🔷 支持](smartdefi-tm-platform/token-launchpad/sdscan-tool/backing.md)
-    * [🟡 抵押界面](smartdefi-tm-platform/token-launchpad/sdscan-tool/staking-interface.md)
+  * [🎁 Staking](smartdefi-tm-platform/smartdefi-protocol/staking.md)
+* [🚀 Token Launchpad](smartdefi-tm-platform/token-launchpad/README.md)
+  * [〽️ Create a Token](smartdefi-tm-platform/token-launchpad/create-a-token.md)
+  * [💵 Private Liquidity Launch](smartdefi-tm-platform/token-launchpad/private-liquidity-launch.md)
+  * [💰 Presale Launch](smartdefi-tm-platform/token-launchpad/presale-launch/README.md)
+    * [👤 LGE for Devs](smartdefi-tm-platform/token-launchpad/presale-launch/lge-for-devs.md)
+    * [👥 LGE for Investors](smartdefi-tm-platform/token-launchpad/presale-launch/lge-for-investors.md)
+  * [🪙 Enable Staking](smartdefi-tm-platform/token-launchpad/enable-staking.md)
+  * [💸 Fee Converter](smartdefi-tm-platform/token-launchpad/fee-converter.md)
+  * [📖 SDscan tool](smartdefi-tm-platform/token-launchpad/sdscan-tool/README.md)
+    * [🔶 Token](smartdefi-tm-platform/token-launchpad/sdscan-tool/token.md)
+    * [🔷 Backing](smartdefi-tm-platform/token-launchpad/sdscan-tool/backing.md)
+    * [🟡 Staking - Interface](smartdefi-tm-platform/token-launchpad/sdscan-tool/staking-interface.md)
     * [🟪 LGE](smartdefi-tm-platform/token-launchpad/sdscan-tool/lge/README.md)
-      * [部署](smartdefi-tm-platform/token-launchpad/sdscan-tool/lge/deployer.md)
-      * [界面](smartdefi-tm-platform/token-launchpad/sdscan-tool/lge/interface.md)
-    * [⚪ 自定义](smartdefi-tm-platform/token-launchpad/sdscan-tool/custom.md)
-    * [🔐 SD 暂停](smartdefi-tm-platform/token-launchpad/sdscan-tool/sdpause.md)
-* [⛓️ 跨链桥](smartdefi-tm-platform/cross-chain-bridge.md)
-* [📜 ROXary 自定义升级](smartdefi-tm-platform/roxary-custom-upgrades.md)
-* [📝 现实资产 (RWA)](smartdefi-tm-platform/real-world-assets-rwa.md)
-* [💲 平台费用](smartdefi-tm-platform/platform-fees.md)
+      * [Deployer](smartdefi-tm-platform/token-launchpad/sdscan-tool/lge/deployer.md)
+      * [Interface](smartdefi-tm-platform/token-launchpad/sdscan-tool/lge/interface.md)
+    * [⚪ Custom](smartdefi-tm-platform/token-launchpad/sdscan-tool/custom.md)
+    * [🔐 SDPause](smartdefi-tm-platform/token-launchpad/sdscan-tool/sdpause.md)
+* [⛓️ Cross-chain Bridge](smartdefi-tm-platform/cross-chain-bridge.md)
+* [📜 ROXary Custom Upgrades](smartdefi-tm-platform/roxary-custom-upgrades.md)
+* [📝 Real-World Assets (RWA)](smartdefi-tm-platform/real-world-assets-rwa.md)
+* [💲 Platform fees](smartdefi-tm-platform/platform-fees.md)
 
 ## FEGtrack
 
-* [📊 FEGtrack 应用程序](fegtrack/fegtrack-app/README.md)
-  * [📲 FEGtrack 界面](fegtrack/fegtrack-app/fegtrack-interface.md)
+* [📊 FEGtrack App](fegtrack/fegtrack-app/README.md)
+  * [📲 FEGtrack Interface](fegtrack/fegtrack-app/fegtrack-interface.md)
 
-## FTW 限价单
+## FTW Limit Orders <a href="#ftw" id="ftw"></a>
 
-* [🗳️ FTW - 钱包交易](ftw/ftw-from-the-wallet.md)
+* [🗳️ FTW - From The Wallet](ftw/ftw-from-the-wallet.md)
 
-## 聚合器 / 路由器
+## Aggregator / Router <a href="#aggregator" id="aggregator"></a>
 
-* [🔄 聚合信息](aggregator/aggregator-info.md)
+* [🔄 Aggregator Info](aggregator/aggregator-info.md)
 
-## Grafene 2FA 钱包
+## Grafene 2FA Wallet <a href="#grafene" id="grafene"></a>
 
 * [🎓 GRAFENE](grafene/grafene.md)
 
-## 资源
+## Resources
 
-* [📚 词汇表](resources/dictionary.md)
-* [🗃️ 当前地址](resources/curent-addresses/README.md)
-  * [🔒 安全流动性](resources/curent-addresses/secure-liquidity.md)
-* [🖼️ 媒体工具包](resources/media-kit.md)
-* [🏛️ 归档](resources/archive/README.md)
-  * [📖 已停用](resources/archive/discontinued/README.md)
-    * [fWrap 代币](resources/archive/discontinued/fwrap-tokens.md)
-  * [📄 旧地址](resources/archive/old-addresses.md)
-  * [💼 流动性贷款（已完成）](resources/archive/liquidity-loan-completed.md)
+* [📚 Dictionary](resources/dictionary.md)
+* [🗃️ Current Addresses](resources/curent-addresses/README.md)
+  * [🔒 Secure Liquidity](resources/curent-addresses/secure-liquidity.md)
+* [🖼️ Media Kit](resources/media-kit.md)
+* [🏛️ Archive](resources/archive/README.md)
+  * [📖 Discontinued](resources/archive/discontinued/README.md)
+    * [fWrap tokens](resources/archive/discontinued/fwrap-tokens.md)
+  * [📄 Old addresses](resources/archive/old-addresses.md)
+  * [💼 Liquidity Loan \[Completed\]](resources/archive/liquidity-loan-completed.md)
 
-## 恢复
+## Recovery
 
-* [💸 旧 FEGex/SD 恢复](recovery/old-fegex-sd-recovery/README.md)
-  * [🟢 阶段 1 - SDR](recovery/old-fegex-sd-recovery/stage-1-sdr/README.md)
-    * [👩‍💻 开发者的 SDR](recovery/old-fegex-sd-recovery/stage-1-sdr/sdr-for-devs.md)
-    * [👩‍🏫 投资者的 SDR](recovery/old-fegex-sd-recovery/stage-1-sdr/sdr-for-investors.md)
-    * [⚙️ SDR 处理流程](recovery/old-fegex-sd-recovery/stage-1-sdr/sdr-process.md)
-  * [🔴 阶段 2 - 被盗项目](recovery/old-fegex-sd-recovery/stage-2-drained-projects.md)
+* [💸 Old FEGex/SD Recovery](recovery/old-fegex-sd-recovery/README.md)
+  * [🟢 Stage 1 - SDR](recovery/old-fegex-sd-recovery/stage-1-sdr/README.md)
+    * [👩‍💻 SDR for DEVs](recovery/old-fegex-sd-recovery/stage-1-sdr/sdr-for-devs.md)
+    * [👩‍🏫 SDR for Investors](recovery/old-fegex-sd-recovery/stage-1-sdr/sdr-for-investors.md)
+    * [⚙️ SDR Process](recovery/old-fegex-sd-recovery/stage-1-sdr/sdr-process.md)
+  * [🔴 Stage 2 - Drained projects](recovery/old-fegex-sd-recovery/stage-2-drained-projects.md)
