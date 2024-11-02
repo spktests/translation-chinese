@@ -1,56 +1,56 @@
 ---
-description: FEG Ecosystem
+description: FEG 生态系统
 ---
 
-# 💡 Introduction
+# 💡 介绍
 
 <figure><img src=".gitbook/assets/Screenshot_9.png" alt=""><figcaption></figcaption></figure>
 
-### 🌍 About [FEG.io](https://fegtoken.com/)&#x20;
+### 🌍 关于 [FEG.io](https://fegtoken.com/)&#x20;
 
-FEG is a dedicated DeFi project featuring a Next-Gen Token Launchpad, "SmartDeFi," that has undergone rigorous [audits](welcome/security-audits.md). Currently, we are deployed on ETH, BNB and BASE blockchains with plans to expand our presence to multiple other EVM-compatible chains, further broadening our ecosystem's reach and capabilities.
+FEG 是一个专注于去中心化金融（DeFi）的项目，提供下一代代币启动平台“SmartDeFi”，并已通过严格的[审计](welcome/security-audits.md)。目前，FEG 部署在 ETH、BNB 和 BASE 区块链上，计划扩展到更多兼容 EVM 的链，进一步扩大生态系统的覆盖范围和能力。
 
-### 🌉 Cross-Chain Protocol Development
+### 🌉 跨链协议开发
 
-FEG has developed a cross-chain protocol that enables **a singular token supply** to flow seamlessly across multiple blockchains. This cutting-edge technology is unique in DeFi and has undergone thorough auditing to ensure robustness and security.
+FEG 开发了一个跨链协议，使 **单一代币供应** 可以在多个区块链上无缝流通。这一尖端技术在 DeFi 领域中独树一帜，并已通过严格审计以确保其稳健性和安全性。
 
-### 💼 SmartDeFi Token Launchpad
+### 💼 SmartDeFi 代币启动平台
 
-Our Token Launchpad is designed with robust features to support innovative investment strategies:
+我们的代币启动平台具有强大的功能，支持创新的投资策略：
 
-* Multi-Asset Backing: Investors can back tokens with multiple assets such as ETH, USDC and more.
-* Flexible redemption and loans: Tokens can be burned for their asset-backing value if competitive with market prices, or investors may opt for an interest-free 30-day loan against their tokens.
-* Adaptive Tokenomics: Projects can modify their tokenomic structures to better align with evolving project goals or investor strategies, subject to a 3-day security delay for changes.
-* RFI Technology Integration: We have enhanced the integration of RFI (reflect finance) technology, offering options for RFI vs. Non-RFI setups to improve functionality and investment outcomes.
-* Staking Protocol Deployer: Utilize our customizable and fully audited Staking Protocol to bring immediate utility and enhanced value to your project.
-* Tokenless Presales: A pioneering presale method where investors contribute to liquidity and receive an equivalent dollar value in tokens, held by the contract. Upon withdrawing their investment, they retrieve their new value in ETH or BNB, and the corresponding tokens are burnt to the dead wallet, thereby preserving the market price and enhancing presale safety. Throughout this period, investors also earn DEX liquidity provider fees.
+* 多资产支持：投资者可以通过多个资产（如 ETH、USDC 等）支持代币。
+* 灵活赎回与贷款：代币可按资产支持值销毁，或投资者可选择对其代币进行无息 30 天的贷款。
+* 自适应代币经济：项目可以调整其代币经济结构，以更好地符合项目发展目标或投资者的策略，调整前需延迟 3 天进行安全审查。
+* RFI 技术集成：我们加强了 RFI 技术的集成，提供 RFI 与非 RFI 的选择，优化功能和投资效果。
+* 抵押协议部署器：使用我们定制的、经过全面审计的抵押协议，为项目带来即时的实用性和增强的价值。
+* 无代币预售：一种开创性的预售方法，投资者通过提供流动性获得等价美元的代币。赎回时可获得对应的 ETH 或 BNB，销毁等量的代币以维持市场价格并提升预售的安全性。
 
-### 🏛 Real-World Asset Tokenization
+### 🏛 现实资产代币化
 
-Our launchpad now supports the tokenization of real-world assets, enabling seamless dividend payouts through our audited staking protocol. This feature allows for a deeper connection between digital assets and physical assets, expanding the scope and utility of blockchain technology.
+我们的启动平台现支持现实资产的代币化，允许通过我们审计的抵押协议进行无缝的股息分配，使数字资产和现实资产之间有更深的联系。
 
-### 📱 FEGtrack App
+### 📱 FEGtrack 应用程序
 
-FEG has also developed the FEGtrack app, which provides project data, charting, market information, and news updates. It is available for download on both Android and iOS devices. Simply search for "FEGtrack" on your preferred app store.&#x20;
+FEG 开发了 FEGtrack 应用程序，提供项目信息、图表、市场动态和新闻更新。可在 Android 和 iOS 下载，搜索“FEGtrack”即可找到。
 
-### 🔗 SmartDeFi Trading/Charting Platform
+### 🔗 SmartDeFi 交易/图表平台
 
-Explore our custom trading and charting site, where all tokens from our launchpad will be tradable. This platform routes through UniSwap and PancakeSwap and includes all the tools from our collaborative partner, TradingView. Visit us at [SmartDeFi.com](https://smartdefi.com) !
+探索我们定制的交易和图表平台，所有启动的代币均可在此平台上进行交易。该平台通过 UniSwap 和 PancakeSwap 路由并集成 TradingView 提供的工具。访问：[SmartDeFi.com](https://smartdefi.com)！
 
-### The Ecosystem
+### 生态系统
 
-<table data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>FEG token</strong></td><td><em>Native ecosystem token</em></td><td><a href="feg-smartdefi-tm/about-feg-token/">Read more</a></td><td><a href=".gitbook/assets/FEG smaller.png">FEG smaller.png</a></td><td><a href="feg-smartdefi-tm/about-feg-token/">about-feg-token</a></td></tr><tr><td><strong>SmartDeFi charts &#x26; swap</strong></td><td><em>Trade and view token data</em></td><td>Read more</td><td><a href=".gitbook/assets/FEGex smaller.png">FEGex smaller.png</a></td><td><a href="https://smartdefi.com">https://smartdefi.com</a></td></tr><tr><td><strong>SmartDeFi Launchpad</strong></td><td><em>Mint your own free project</em></td><td><a href="smartdefi-tm-platform/smartdefi-protocol/">Read more</a></td><td><a href=".gitbook/assets/Deployer smaller.png">Deployer smaller.png</a></td><td><a href="smartdefi-tm-platform/smartdefi-protocol/">smartdefi-protocol</a></td></tr><tr><td><strong>Grafene 2FA Wallet</strong></td><td><em>Fortified secure hot wallet</em></td><td><a href="grafene/grafene.md">Read more</a></td><td><a href=".gitbook/assets/Grafene smaller.png">Grafene smaller.png</a></td><td><a href="grafene/grafene.md">grafene.md</a></td></tr><tr><td><strong>FTW From The Wallet</strong></td><td><em>P2P limit orders trading</em></td><td><a href="broken-reference">Read more</a></td><td><a href=".gitbook/assets/FTW smaller.png">FTW smaller.png</a></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Aggregator trading</strong></td><td><em>Find best trade prices</em></td><td><a href="aggregator/aggregator-info.md">Read more</a></td><td><a href=".gitbook/assets/Aggregator smaller.png">Aggregator smaller.png</a></td><td><a href="aggregator/aggregator-info.md">aggregator-info.md</a></td></tr></tbody></table>
+<table data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>FEG 代币</strong></td><td><em>原生生态系统代币</em></td><td><a href="feg-smartdefi-tm/about-feg-token/">阅读更多</a></td><td><a href=".gitbook/assets/FEG smaller.png">FEG smaller.png</a></td><td><a href="feg-smartdefi-tm/about-feg-token/">about-feg-token</a></td></tr><tr><td><strong>SmartDeFi 图表和交换</strong></td><td><em>进行交易和查看代币数据</em></td><td>阅读更多</td><td><a href=".gitbook/assets/FEGex smaller.png">FEGex smaller.png</a></td><td><a href="https://smartdefi.com">https://smartdefi.com</a></td></tr><tr><td><strong>SmartDeFi 启动平台</strong></td><td><em>创建您的免费项目</em></td><td><a href="smartdefi-tm-platform/smartdefi-protocol/">阅读更多</a></td><td><a href=".gitbook/assets/Deployer smaller.png">Deployer smaller.png</a></td><td><a href="smartdefi-tm-platform/smartdefi-protocol/">smartdefi-protocol</a></td></tr><tr><td><strong>Grafene 2FA 钱包</strong></td><td><em>高度安全的热钱包</em></td><td><a href="grafene/grafene.md">阅读更多</a></td><td><a href=".gitbook/assets/Grafene smaller.png">Grafene smaller.png</a></td><td><a href="grafene/grafene.md">grafene.md</a></td></tr><tr><td><strong>FTW 点对点限价单交易</strong></td><td><em>点对点限价单交易</em></td><td><a href="broken-reference">阅读更多</a></td><td><a href=".gitbook/assets/FTW smaller.png">FTW smaller.png</a></td><td><a href="broken-reference">链接损坏</a></td></tr><tr><td><strong>聚合交易</strong></td><td><em>寻找最佳交易价格</em></td><td><a href="aggregator/aggregator-info.md">阅读更多</a></td><td><a href=".gitbook/assets/Aggregator smaller.png">Aggregator smaller.png</a></td><td><a href="aggregator/aggregator-info.md">aggregator-info.md</a></td></tr></tbody></table>
 
-### Social media
+### 社交媒体
 
 <table data-view="cards"><thead><tr><th></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Telegram</strong></td><td></td><td></td><td><a href="https://t.me/FEGchat"> https://t.me/FEGchat</a></td></tr><tr><td>Twitter</td><td></td><td></td><td><a href="https://twitter.com/FEGtoken"> https://twitter.com/FEGtoken</a></td></tr><tr><td>Youtube</td><td></td><td></td><td><a href="https://www.youtube.com/@FEGOfficial">https://www.youtube.com/@FEGOfficial </a></td></tr><tr><td>Discord</td><td></td><td></td><td><a href="https://discord.fegtoken.com">https://discord.fegtoken.com</a></td></tr><tr><td>Instagram</td><td></td><td></td><td><a href="https://www.instagram.com/feg_token/">https://www.instagram.com/feg_token/ </a></td></tr><tr><td>Facebook</td><td></td><td></td><td><a href="https://www.facebook.com/FEGTokenOfficial/">https://www.facebook.com/FEGTokenOfficial/ </a></td></tr><tr><td>Medium</td><td></td><td></td><td><a href="https://fegtoken.medium.com">https://fegtoken.medium.com</a></td></tr><tr><td>Reddit</td><td></td><td></td><td></td></tr><tr><td>Telegram Support</td><td></td><td></td><td><a href="https://support.fegtoken.com">https://support.fegtoken.com</a></td></tr></tbody></table>
 
-### Other Information
+### 其他信息
 
-Main website: [https://feg.io/](https://feg.io/)\
-Trading platform: [https://smartdefi.com](https://smartdefi.com)\
-Live Support: [https://livesupport.fegtoken.com](https://livesupport.fegtoken.com)
+官方网站: [https://feg.io/](https://feg.io/)\\\
+交易平台: [https://smartdefi.com](https://smartdefi.com)\\\
+在线支持: [https://livesupport.fegtoken.com](https://livesupport.fegtoken.com)
 
-Contact emails\
-[info@feg.io](mailto:info@feg.io)\
+联系邮箱\\\
+[info@feg.io](mailto:info@feg.io)\\\
 [marketing@feg.io](mailto:marketing@feg.io)
