@@ -1,53 +1,52 @@
 ---
-description: Interest-free loans made simple.
+description: 简单的无息贷款。
 ---
 
 # 🏦 SmartLending
 
 <figure><img src="../../.gitbook/assets/Screenshot_17.png" alt=""><figcaption></figcaption></figure>
 
-Through _SmartLending_, any SmartDeFi token can be used as collateral to take out loans against its baseline value—without having to sell or burn the Token.
+通过 _SmartLending_，任何 SmartDeFi 代币都可以用作抵押品，以其基础价值为基础获得贷款——无需出售或燃烧代币。
 
-Upon taking the loan, the borrower instantly receives the baseline value for the collateralized Token. The borrower then has **30 days** to repay the loan _without interest_.\
+贷款发放后，借款人立即收到抵押代币的基础价值。借款人随后有 **30 天** 的时间在_无息_的情况下偿还贷款。\
 \
-If the loan cannot be repaid in time, the user may extend the lending period by another 30 days by burning 0.1% of their collateral and can extend again and again.
+如果贷款无法按时偿还，用户可以通过燃烧其抵押品的 0.1% 来延长贷款期限 30 天，并且可以多次延长。
 
 {% hint style="warning" %}
-Note: Extending the SmartLoan before the 30-day expiration is essential. Otherwise, the loan defaults, and the collateral is burnt (lost).
+注意：务必在 30 天到期前延长 SmartLoan。否则，贷款将违约，抵押品将被燃烧（丢失）。
 {% endhint %}
 
 {% hint style="success" %}
-Because the collateralized tokens are held inside the smart contract and considered part of the circulating supply, they continue to accrue the asset-backing as they would in the investor's wallet. The continued asset-backing accumulation enables SmartLending to be _interest-free._&#x20;
+由于抵押代币被保存在智能合约中并被视为流通供应的一部分，因此它们会像在投资者的钱包中一样继续累积资产支持。这种持续的资产支持累积使得 SmartLending 能够实现_无息_贷款。&#x20;
 {% endhint %}
 
-### What Does This Mean?
+### 这意味着什么？
 
-SmartLending means you can now access your SmartDeFi token's baseline value without selling it. This is perfect for emergencies or taking advantage of a new Token launch without selling your assets.\
+SmartLending 意味着您现在可以在不出售 SmartDeFi 代币的情况下获取其基础价值。这对于紧急情况或抓住新代币发行的机会而不需要出售资产非常完美。\
 \
-This means you have freedom and can treat your baseline value as a banked asset.
+这意味着您拥有自由，可以将基础价值视为存款资产。
 
-### How Safe Is It?
+### 它有多安全？
 
-SmartLend requires no oracles, as the price comes directly from the baseline value pulled from the smart contract. Furthermore, as SmartLend requires no third party, there is no room for external manipulation or exploits of the code.
+SmartLend 无需任何预言机，因为价格直接来自智能合约中的基础价值。此外，由于 SmartLend 不需要第三方介入，因此不存在外部操控或代码漏洞的风险。
 
 {% hint style="success" %}
-**SmartLend is the first lending protocol in which the funds and data for ratio calculations are hosted in the same place, making it the most secure protocol ever created.**
+**SmartLend 是第一个在同一位置托管资金和比例计算数据的贷款协议，使其成为有史以来最安全的协议。**
 {% endhint %}
 
-### Is there a tax for lending a SmartDeFi Token?
+### SmartDeFi 代币贷款是否收税？
 
-No, but if a SmartDeFi ™ Token has a reflection tax, lending against it WILL cause that reflection tax to be deducted.
+不收税，但如果 SmartDeFi™ 代币具有反射税，则贷款抵押将会导致扣除该反射税。
 
-### Why does the Token not show in the wallet after taking a loan?
+### 贷款后为什么钱包中没有显示代币？
 
-SmartLend holds the user's Token in the Smart Contract as collateral while lending out the asset-backing token type at the baseline value of the Token. For example, if the Token is asset-backed in wBNB, the loan will be provided in wBNB.
+SmartLend 将用户的代币保存在智能合约中作为抵押品，同时以代币的基础价值类型（资产支持的代币类型）发放贷款。例如，如果代币的资产支持为 wBNB，贷款将以 wBNB 发放。
 
-### Do Tokens inside SmartLend receive reflections (RFI)?
+### SmartLend 内的代币会接收反射（RFI）吗？
 
-**No**, they do not. Once a token Token is used as collateral for a SmartLend loan, the SD tokens do not receive reflections while being held inside the Smart Contract.
+**不会**，它们不会。 一旦代币被用作 SmartLend 贷款的抵押品，SD 代币在智能合约中持有期间将不接收反射。
 
-### Can I repay in batches?
+### 我可以分批还款吗？
 
-You can repay in however many batches you want, and you'll also receive your SD token in batches.\
-Once a user repays the final batch and thus repays their loan in full, all remaining SD Tokens are returned to the user in their wallet, and the SD tokens will begin again to receive reflections if the Token is reflective (RFI).
-
+您可以分批还款，数量不限，并且您也会分批收到 SD 代币。\
+当用户还清最后一批款项，从而全额还清贷款时，所有剩余的 SD 代币将返回到用户钱包中。如果该代币具有反射功能（RFI），SD 代币将恢复接收反射。

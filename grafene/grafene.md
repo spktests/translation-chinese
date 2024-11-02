@@ -6,29 +6,28 @@ coverY: 0
 # 🎓 GRAFENE
 
 {% hint style="warning" %}
-The info on this page is deprecated; updates will follow
+本页面的信息已过时，后续将进行更新
 {% endhint %}
 
-Grafene, a blockchain-based hot wallet, is an impenetrable fortress safeguarding your crypto assets. Fortified with on-chain two-factor authentication (2FA), Grafene employs cutting-edge blockchain security protocols to safeguard your funds, even if your seed phrase falls into the wrong hands. Rest easy knowing your investments are under the watchful eye of Grafene's unwavering security.
+Grafene 是一个基于区块链的热钱包，是保护您的加密资产的坚不可摧的堡垒。通过链上双因素认证 (2FA)，Grafene 采用最先进的区块链安全协议，即使您的助记词落入他人之手，也能保护您的资金。放心吧，您的投资在 Grafene 坚定不移的安全保护下无懈可击。
 
-### **Triple-Layered Security: A Bastion of Protection**
+### **三层安全防护：强大的保护屏障**
 
-Grafene's unique design deviates from traditional wallets, employing three separate contracts, each requiring its unique mnemonic phrase. This triple-layered approach, on-chain 2FA, establishes an impenetrable barrier against unauthorized access. Even malicious actors who acquire your private key remain powerless to plunder your assets.
+Grafene 的独特设计不同于传统钱包，它采用了三个独立的合约，每个合约都需要独特的助记词。这种三层防护方法结合链上 2FA，建立了一个无法被未经授权访问突破的屏障。即使恶意人士获取您的私钥，他们也无法盗取您的资产。
 
-### **No Hardware Dependency: Security without Additional Costs**
+### **无需硬件依赖：无需额外成本的安全保障**
 
-While hardware wallets provide offline storage for private keys, they often come with hefty price tags and potential vulnerabilities. Grafene transcends these limitations, offering superior security without costly hardware.
+虽然硬件钱包可以为私钥提供离线存储，但它们往往价格高昂且存在潜在漏洞。Grafene 超越了这些限制，提供了无需昂贵硬件的高级安全保障。
 
-### **Robustness Proven: A $100,000 Challenge**
+### **坚固性验证：10 万美元挑战**
 
-At the 2022 Dubai Crypto Expo, Grafene publicly unveiled its on-chain 2FA prowess. To demonstrate the resilience of this technology, a $100,000 challenge was issued, with one of the wallet's seed phrases being publicly shared. Despite numerous attempts, no one has accessed the funds, solidifying Grafene's impregnable security.
+在 2022 年迪拜加密博览会上，Grafene 公开展示了其链上 2FA 的强大功能。为展示此技术的韧性，Grafene 发起了 10 万美元的挑战，并公开了钱包的助记词之一。尽管有多次尝试，但没有人能访问到资金，这进一步证明了 Grafene 的坚不可摧的安全性。
 
-### **FEG Ecosystem Integration: Governance and Smart Contract Activation**
+### **FEG 生态系统集成：治理和智能合约激活**
 
-Grafene is poised to become an integral component of the FEG ecosystem, utilizing FEG as its governance mechanism to activate each wallet's smart contract. This harmonious integration amplifies Grafene's impact and unlocks a wealth of opportunities.
+Grafene 有望成为 FEG 生态系统的重要组成部分，利用 FEG 作为其治理机制来激活每个钱包的智能合约。这种和谐的集成放大了 Grafene 的影响并解锁了大量机会。
 
-### **Pricing: An Affordable Path to Enhanced Security**
+### **定价：通向高级安全的实惠之路**
 
-Pricing for Grafene has yet to be finalized, but a proposed one-time fee of $50 to create the wallet is being considered. This fee would be reinvested into the ecosystem, ensuring Grafene's continued development and growth.\
-Embrace the future of blockchain security with Grafene, the revolutionary wallet that redefines the standards for safeguarding your digital assets. Experience unparalleled protection and peace of mind, knowing your investments are in the most secure hands possible.
-
+Grafene 的定价尚未最终确定，但正在考虑一次性创建钱包费用为 50 美元。该费用将被再投资于生态系统，以确保 Grafene 的持续发展和增长。\
+拥抱区块链安全的未来，Grafene 是重新定义保护数字资产标准的革命性钱包。体验无与伦比的保护和安心，确保您的投资处于最安全的环境中。

@@ -1,84 +1,82 @@
-# 📲 FEGtrack Interface
+# 📲 FEGtrack 界面
 
 {% hint style="warning" %}
-The info on this page is deprecated; updates will follow
+本页面的信息已过时，后续将进行更新
 {% endhint %}
 
-## 1. Switch between the Old and New themes
+## 1. 切换旧主题和新主题
 
 <figure><img src="../../.gitbook/assets/photo_13_2022-12-08_13-34-36.jpg" alt=""><figcaption></figcaption></figure>
 
-You can switch two themes if you click the Old theme at the bottom of the application.
+如果点击应用程序底部的“旧主题”，您可以在两个主题之间切换。
 
-## 2. The menu moved to the bottom
+## 2. 菜单移至底部
 
 <figure><img src="../../.gitbook/assets/photo_16_2022-12-08_13-34-36.jpg" alt=""><figcaption></figcaption></figure>
 
-You can find direct links at the bottom of the app to vote on Coinmarketcap and Coingeco. Below, you can find direct links to buy FEGtoken from platforms such as Uniswap, PancakeSwap, or Fiat.\
+在应用底部，您可以找到直接链接以在 Coinmarketcap 和 Coingecko 上投票。下面，您可以找到在 Uniswap、PancakeSwap 或 Fiat 等平台上购买 FEG 代币的直接链接。\
 \
-Lower down the page, and you will find links to the various social media maintained by the FEGtoken project. Lastly, you will find the app version that you have installed.
+向下滚动页面，您将找到 FEGtoken 项目维护的各种社交媒体链接。最后，您可以看到已安装的应用版本。
 
-## 3. Add your wallet(s)
+## 3. 添加您的钱包
 
 <figure><img src="../../.gitbook/assets/Add wallet.jpg" alt=""><figcaption></figcaption></figure>
 
-FEGtrack is safe; it does NOT connect to your wallet; it simply reads holdings info from your public wallet address, which is 0x...
+FEGtrack 是安全的；它不会连接到您的钱包，只是读取您公开钱包地址的持有信息，该地址为 0x...
 
-Anyone on the blockchain can see public wallet addresses.\
+任何人都可以在区块链上查看公开的钱包地址。\
 \
-\-Click the + sign and copy/paste your wallet's public address in the "wallet address" field.\
-\-Then, you will name your wallet.\
-\-This name will appear at the top of the app once saved.\
+\- 点击加号并在“钱包地址”字段中粘贴您的公开钱包地址。\
+\- 然后为您的钱包命名。\
+\- 保存后，此名称将显示在应用程序顶部。\
 \
-You can also add your wallet address by scanning the QR code inside.\
+您也可以通过扫描 QR 码来添加您的钱包地址。\
 \
-Once done, click the Save Wallet button to save your wallet inside FEGtrack.
+完成后，点击“保存钱包”按钮将钱包保存在 FEGtrack 中。
 
-## 4.  Change the Network
+## 4. 切换网络
 
 <figure><img src="../../.gitbook/assets/photo_11_2022-12-08_13-34-36.jpg" alt=""><figcaption></figcaption></figure>
 
-Near the top of the screen, there is a network icon that allows you to change your wallet between the Ethereum and Binance Smart Chain networks. \
+在屏幕顶部附近有一个网络图标，可以让您在 Ethereum 和 Binance Smart Chain 网络之间切换。\
 \
-Be sure to pick the correct network for the FEG tokens you own. Otherwise, your balance may indicate zero; don't panic if it does; change the network.
+请务必选择适用于您 FEG 代币的正确网络，否则余额可能显示为零；如果是这样，请不要惊慌，切换网络即可。
 
-## &#x20;5.  Change between balances
+## 5. 切换余额显示
 
 <figure><img src="../../.gitbook/assets/total balance switch.jpg" alt=""><figcaption></figcaption></figure>
 
-Clicking repeatedly on the "Total balance" button will toggle your dashboard and show you the various balances you hold.\
+反复点击“总余额”按钮会在仪表板上显示您持有的不同余额。\
 \
-The button's text and dashboard statistics will change as follows:\
-1\. Total  /  2. Wallet  /  3. Stake v2  /  4. Stake v1
+按钮文本和仪表板统计信息将依次更改如下：\
+1. 总余额 / 2. 钱包余额 / 3. 质押 v2 / 4. 质押 v1
 
-## 6. Market data
+## 6. 市场数据
 
 <figure><img src="../../.gitbook/assets/market data.jpg" alt=""><figcaption></figcaption></figure>
 
-Scroll down, and you will find the "market data" section, where you will be presented with market cap, volume, price, amounts burned, and circulation statistics.\
+向下滚动，您将找到“市场数据”部分，在这里可以看到市值、交易量、价格、燃烧数量和流通统计数据。\
 \
-If you press on sections 2, 3, 4, and 6, they will switch the display to show more data (for example, FEG burned will switch to FEG Circulating %).\
+如果按下第 2、3、4 和 6 部分，它们会切换显示更多数据（例如，FEG 燃烧会切换为 FEG 流通比例）。\
 \
-Try it out!
+试试看！
 
-## 7. Transactions&#x20;
+## 7. 交易记录
 
 <figure><img src="../../.gitbook/assets/photo_15_2022-12-08_13-34-36.jpg" alt=""><figcaption></figcaption></figure>
 
-Further down in the application, you will be met with the "transactions" section, where you will see a horizontally scrollable live list of the most recent buy and sell FEGtoken transactions.\
+在应用程序中进一步向下，您将看到“交易记录”部分，可以水平滚动查看最近的 FEGtoken 买卖交易列表。\
 \
-If you press on "Transactions," it will switch to "My transactions." It might take a while to load up and will display your transactions with FEG token. It will not show transfers, only buys and sells. \
+如果点击“交易记录”，它会切换到“我的交易”。加载可能需要一些时间，将显示您与 FEG 代币的交易，但不会显示转账记录，仅显示买入和卖出交易。
 
-
-## 8. Change Font Size
+## 8. 更改字体大小
 
 <figure><img src="../../.gitbook/assets/increase font.jpg" alt=""><figcaption></figcaption></figure>
 
-If you press the FEGtrack logo at the top for a few seconds, the app will switch to a larger font for those who have smaller screens. You can change to the default font size by pressing the logo again.
+如果按住 FEGtrack 顶部的标志几秒钟，应用程序将切换到较大的字体，适合小屏幕用户。再次按住标志可以恢复默认字体大小。
 
-## 9. Hide Balance
+## 9. 隐藏余额
 
 <figure><img src="../../.gitbook/assets/hide balance.jpg" alt=""><figcaption></figcaption></figure>
 
-You can hide your Balance if you click on the left icon that looks like an eye. Market data and transactions will still be displayed.
-
+如果点击左侧类似眼睛的图标，您可以隐藏余额。市场数据和交易记录仍然会显示。

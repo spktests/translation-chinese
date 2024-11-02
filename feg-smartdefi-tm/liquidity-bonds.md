@@ -1,37 +1,37 @@
-# 💸 Liquidity Bonds
+# 💸 流动性债券
 
-FEG has introduced a new feature to ensure liquidity is distributed among multiple holders, stabilizing and securing the liquidity pools. Liquidity Pool (LP) Bonds will be available for a limited time on a first-come, first-served basis.
+FEG 引入了一项新功能，旨在确保流动性分配给多个持有者，以稳定和保障流动性池。流动性池（LP）债券将以先到先得的方式限时提供。
 
-You will have the opportunity to invest BNB and ETH into FEG's liquidity, and in return, you will receive free FEG tokens to pair with your BNB/ETH in the liquidity pool. For example, if you invest 1 BNB, you will receive an equivalent amount of FEG tokens for free. When you withdraw your funds, you will receive your original BNB, the free FEG tokens, and your share of the income generated from LP taxes during this period.
+您将有机会投资 BNB 和 ETH 到 FEG 的流动性中，作为回报，您将免费获得 FEG 代币以与您的 BNB/ETH 配对在流动性池中。例如，如果您投资 1 BNB，您将免费获得相当数量的 FEG 代币。当您提取资金时，您将收到原始的 BNB、免费的 FEG 代币以及该期间 LP 税收所产生的收入份额。
 
-#### LP Bonds Overview
+#### LP 债券概览
 
-**Maturing Bond Terms:**
+**债券条款：**
 
-* **Ratio:** 1:1, instant 2x leverage
-* **Maturity:** 12-month term
-* **Withdrawal:** After maturity, withdraw your LP and any extra rewards
+* **比例：** 1:1，即时2倍杠杆
+* **到期时间：** 12 个月期限
+* **提取：** 到期后，提取您的 LP 和任何额外奖励
 
-**Bond Minting Process:**
+**债券铸造流程：**
 
-* Deposit any amount of BNB/ETH and receive an equivalent amount (1:1 BNB/ETH) of FEG in vested LP, instantly doubling your deposit.
-* **Example:** Deposit 0.1 ETH and receive an additional 0.1 ETH worth of FEG for free to place in LP.
+* 存入任意数量的 BNB/ETH，您将获得等量的 FEG，以 Vested LP 的形式双倍您的存款。
+* **示例：** 存入 0.1 ETH，额外获得价值 0.1 ETH 的 FEG 免费用于放入 LP。
 
-**Bond Earnings:**
+**债券收益：**
 
-* Earnings are dynamic and related to price changes.
-* **Example:** Mint a 2 ETH bond, and if the FEG price increases nearly 5x over the next 12 months, your bond would be worth 9.2 ETH plus 9.2 ETH worth of FEG, resulting in a 920% gain compared to 460% if you just held FEG.
-* **Income from LP taxes:** Those who provide the LP for a token will earn a tax from every trade. This provides additional income, depending on trade volume, even if the price remains the same.
+* 收益是动态的，并与价格变化相关。
+* **示例：** 铸造 2 ETH 债券，如果 FEG 价格在接下来的 12 个月内增长近 5 倍，您的债券将价值 9.2 ETH 加上 9.2 ETH 的 FEG，相当于 920% 的收益，而如果只是持有 FEG 则仅为 460%。
+* **来自 LP 税收的收入：** 提供 LP 的人将从每笔交易中赚取税收。根据交易量，即使价格保持不变，这也会带来额外收入。
 
-**Post-Claim Options:**
+**提取后选择：**
 
-* **Holding:** Retain the LP to collect constant swap fees and generate passive income.
-* **Realizing Gains:** Remove part or all of your LP to capture profits.
+* **持有：** 保留 LP 以收取持续的交换费并产生被动收入。
+* **实现收益：** 提取部分或全部 LP 以获得收益。
 
-**Availability:**
+**可用性：**
 
-* Bonds will be available for a limited time and in a limited quantity.
+* 债券将限时且限量提供。
 
 {% hint style="warning" %}
-Because your BNB/ETH will be placed in a liquidity pool, your assets could be subject to impermanent loss; please read more on this subject on [Binance Academy](https://academy.binance.com/en/articles/impermanent-loss-explained) so that you can make an informed decision.
+由于您的 BNB/ETH 将被放入流动性池，您的资产可能会面临无常损失的风险。请在 [Binance Academy](https://academy.binance.com/en/articles/impermanent-loss-explained) 阅读更多内容，以便做出明智的决策。
 {% endhint %}

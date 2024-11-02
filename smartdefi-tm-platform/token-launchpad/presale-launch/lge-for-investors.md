@@ -1,193 +1,191 @@
-# 👥 LGE for Investors
+# 👥 投资者的流动性生成活动（LGE）
 
-A LEAP from SmartDeFi is quite different from any other presales you may be used to.
+SmartDeFi 的 LEAP 与您可能习惯的其他预售截然不同。
 
-For example one notable difference is the fact that it's more secure - the system will take the BNB invested, place it in LP tokens, then it will lock LP tokens in vesting. It will only unlock them in batches, in time, based on a vesting schedule, this way preventing people from dumping on the market. Make sure that the developer has placed a large %  of  the supply into LEAP in order for this to work.&#x20;
+一个显著的区别是，它更加安全——系统会将投资的 BNB 放入流动性代币中，然后将流动性代币锁定在解锁计划中，并按时间分批解锁，从而防止市场抛售。确保开发者将大部分供应量投入 LEAP 以使该机制生效。&#x20;
 
-Also another key feature is the fact that when the LP batches do unlock and user claims their share, the system does not allow the user to take the SD tokens out of LP and then dump on the market, instead the system burns those SD tokens, thus ensuring the SD to BNB ratio in the LP pool remains the same and so the price does not drop when users take out profits via their shares.
+另一个关键功能是，当流动性代币解锁并用户领取份额时，系统不允许用户将 SD 代币从流动性池中取出并抛售，而是将这些 SD 代币销毁，从而确保流动性池中的 SD 与 BNB 比率保持不变，因此用户通过份额获取利润时价格不会下跌。
 
-You can read more about it on the [LEAP Fundraising](./) page, for now let's proceed with the guide.
+您可以在 [LEAP 筹资](./) 页面上阅读更多内容，现在我们开始指南。
 
-## 1. How to find presales
+## 1. 如何查找预售活动
 
 <figure><img src="../../../.gitbook/assets/presale list and info.jpg" alt=""><figcaption></figcaption></figure>
 
-In the main menu on [FEGex.com](https://fegex.com) click on "Presale" tab and now you'll be presented with 4 categories populated with presales in various stages called Live, Upcoming, Completed and Failed.\
-For your current purpose you'll be interested in the presales in the Live category, as you can only join a presale that's already started, so clicking on the Live button will load all the presales currently running.\
-To see more info about a presale you will click "Open LGE" on the presale you are interested in.\
-You will now be presented with all the information possible about this presale, all in the hopes that you will read it properly in order to make an informed decision.
+在 [FEGex.com](https://fegex.com) 的主菜单中点击“预售”选项卡，您将看到按不同阶段分类的预售活动，分别为进行中、即将开始、已完成和失败。\
+对于当前需求，您将对“进行中”类别中的预售活动感兴趣，因为只有已开始的预售可以参与。点击“进行中”按钮会加载当前所有运行中的预售。\
+点击感兴趣的预售中的“打开 LGE”按钮可以查看更多信息。\
+系统会提供关于该预售的所有可能信息，以便您做出明智的决定。
 
-### 1.1 Study the presale carefully&#x20;
+### 1.1 仔细研究预售活动&#x20;
 
-Think long and hard and pay close attention to all the settings the project has chosen for the presale, as it can make all the difference between a solid project with a future ahead of it and a project whose only intention is to steal your money.\
-On this subject, the two most important settings you need to be wary of are "Supply for LP" and "Dev share". Both these and all other settings are explained in the drop-down menu below if you'd like to educate yourself on the subject, which we strongly recommend you do, before investing in anything.
+在做出投资决定前仔细考虑并密切关注项目为预售所选择的所有设置，这可能是一个具有未来潜力的稳健项目和一个只想骗取您的资金的项目之间的区别。\
+在此，您需要特别留意的两个最重要设置是“流动性供应”和“开发者份额”。我们强烈建议您在投资前查看下拉菜单中的详细说明并进行相关学习。
 
 <details>
 
-<summary>Click here for a detailed explanation of what each information row means !</summary>
+<summary>点击这里查看每个信息行的详细解释！</summary>
 
-### **Timeline**
+### **时间线**
 
-Start time\
-\- the date, hour and minute when the presale is set to start
+开始时间\
+\- 预售设置的开始日期、时间和分钟
 
-End time\
-\- the date, hour and minute when the presale will end, unless hardcap is reached in which case it will end as soon as hardcap is met
+结束时间\
+\- 预售的结束日期、时间和分钟，除非达到硬顶，届时预售将在达到硬顶时立即结束
 
-Duration\
-\- shows you actual number of days the presale will be online for until the end time
+持续时间\
+\- 显示预售上线到结束时间的实际天数
 
-Vesting\
-\- tells you how much percentage of your bought LP you can claim per share and how many days you have to wait between claims, so if for example it says 20% every 30 days then it means you can claim a share 5 times (5x20=100), 20% right after presale ends and then in 30 days another 20% and so on
+解锁计划\
+\- 显示您可以按份额领取的已购买流动性代币的百分比以及每次领取之间的等待天数。例如，如果显示为每 30 天领取 20%，这意味着您可以领取 5 次份额（5x20=100），预售结束后立即领取 20%，然后在 30 天后再领取 20%，依此类推。
 
-Price after presale\
-\- it is the price which which this SD token will launch right after presale ends
+预售结束后的价格\
+\- 此 SD 代币在预售结束后立即启动的价格
 
-### Presale details
+### 预售详情
 
-Supply for LP >>very important<<\
-\- pay very close attention to this setting, if it's at 100% then the odds are very good that this is a legit project as it means the developer has chosen to place the entire supply of the project into this presale and it did not hold back anything in their own wallet, so they cannot dump on investors after the presale ends.\
-&#x20;If for example it is at 50% it means they held back half of the total supply, which is a very big risk for you. Their reason to hold back supply may be legit (funds for CEX listing), then again it may not.
+流动性供应 >>非常重要<<\
+\- 请特别关注此设置，如果设置为 100%，那么这个项目很可能是合法的，因为这意味着开发者选择将项目的全部供应量投入到预售中，并没有保留在自己钱包中，因此预售结束后无法抛售投资者。\
+如果设置为 50%，则意味着他们保留了总供应量的一半，这对您来说是一个很大的风险。他们可能有合理的理由（如用于 CEX 上市的资金），但也可能没有。
 
-Hard cap\
-\- it's the maximum amount of BNB the project needs in order to close the presale successfully and launch the trading publicly
+硬顶\
+\- 项目成功完成预售并公开交易所需的最大 BNB 数量
 
-Soft cap\
-\- this is the minimum amount of BNB needed to launch the project, if it doesn't reach this level then the presale will fail. Note that if hard cap is not reached, this will affect the price with which the SD token will launch
+软顶\
+\- 启动项目所需的最低 BNB 数量，如果未达到该水平，则预售将失败。请注意，如果未达到硬顶，将影响 SD 代币的启动价格
 
-Max buy\
-\- every investor will be limited, per wallet, by this setting in how much they can invest for this presale
+最大购买量\
+\- 每个投资者在此预售中的最大投资额度，按钱包计
 
-Dev share >>very important<<\
-\- sometimes a project may choose to take a percentage of the gathered LP in the presale and place it in a developer wallet, reasons could be many, for example they can use the profits to pay for their dev team. Do be wary of this setting thou, as it means if you invested 10 BNB in the presale and the dev share is 50% then you automatically lose half of your invested funds, because they go to the dev share instead of your share, so you're left with a 5 BNB investment. The dev share is subject to the same vesting schedule as your shares.
+开发者份额 >>非常重要<<\
+\- 有时项目可能选择从预售中收集的流动性份额中提取一部分并放入开发者钱包，用于支付开发团队等。请注意此设置，因为这意味着如果您在预售中投资了 10 BNB，而开发者份额为 50%，那么您将自动损失一半的投资，因为它将转入开发者份额而不是您的份额，剩下 5 BNB 投资。开发者份额遵循与您的份额相同的解锁时间表。
 
-### LP distribution
+### 流动性分配
 
-BNB pair\
-\- it tells you what percentage of the total gathered BNB and the total SD tokens go into the new BNB/SD liquidity pool pair
+BNB 配对\
+\- 告诉您总收集的 BNB 和 SD 代币中有多少百分比会进入新的 BNB/SD 流动性池配对
 
-FEG pair\
-\- it tells you what percentage of the total gathered BNB and the total SD tokens go into buying FEG and setting up the secondary liquidity pool of FEG/SD in order to enable arbitrage on this SD token immediately after he presale ends
+FEG 配对\
+\- 告诉您总收集的 BNB 和 SD 代币中有多少百分比会用于购买 FEG 并建立 FEG/SD 的二级流动性池，以便在预售结束后立即为该 SD 代币启用套利
 
-Backing\
-\- shows the percentage of the total gathered BNB which will be injected into the asset backing pool for the SD project when presale ends
+支持\
+\- 显示预售结束时将注入 SD 项目的资产支持池的总 BNB 的百分比
 
-### LP on hard cap
+### 达到硬顶的流动性
 
-BNB pair LP\
-\- it tells you precisely the number of BNB and SD tokens that will go into the BNB/SD liquidity pool pair, if all BNB needed for hardcap is gathered
+BNB 配对流动性\
+\- 告诉您如果收集到所有硬顶所需的 BNB，进入 BNB/SD 流动性池配对的 BNB 和 SD 代币的精确数量
 
-FEG pair LP\
-\- it tells you precisely the number of BNB that will be used to buy FEG and the number of SD tokens that will go into the FEG/SD liquidity pool pair, if all BNB needed for hardcap is gathered
+FEG 配对流动性\
+\- 告诉您如果收集到所有硬顶所需的 BNB，用于购买 FEG 和进入 FEG/SD 流动性池配对的 SD 代币的精确数量
 
-Backing\
-\- the precise number of BNB that will be injected into asset backing
+支持\
+\- 注入资产支持的 BNB 精确数量
 
-### LP on soft cap
+### 达到软顶的流动性
 
-BNB pair LP\
-\- it tells you precisely the number of BNB and SD tokens that will go into the BNB/SD liquidity pool pair, from all the BNB gathered if presale ended with softcap
+BNB 配对流动性\
+\- 告诉您如果预售以软顶结束，进入 BNB/SD 流动性池配对的 BNB 和 SD 代币的精确数量
 
-FEG pair LP\
-\- it tells you precisely the number of BNB that will be used to buy FEG and the number of SD tokens that will go into the FEG/SD liquidity pool pair, from all the BNB gathered if presale ended with softcap
+FEG 配对流动性\
+\- 告诉您如果预售以软顶结束，用于购买 FEG 和进入 FEG/SD 流动性池配对的 SD 代币的精确数量
 
-Backing\
-\- the precise number of BNB that will be injected into asset backing
+支持\
+\- 注入资产支持的 BNB 精确数量
 
-### Raised
+### 已募集资金
 
-Live count of invested funds which updates as soon as someone invests in the presale. \
-If for example it says 26 / 100, the first number is how much BNB has been invested so far and the last number is the hard cap limit where the presale ends automatically.
+实时更新的投资资金数额。\
+例如，如果显示 26 / 100，第一个数字是目前已投资的 BNB 数量，最后一个数字是预售结束的硬顶限制。
 
 </details>
 
-## 2. Enter a presale
+## 2. 参与预售
 
 <figure><img src="../../../.gitbook/assets/enter presale investor.jpg" alt=""><figcaption></figcaption></figure>
 
-While you're looking at the information for a presale, If you like what you see and would like to invest in it, you can click on the "Select" button and pick the coin or token you'd like to use in order to invest.\
-Normally you'd pick BNB (or ETH if on Ethereum), however note that you can actually use any coin or token in your wallet to invest. For example you can invest USDT or even FEG and the system will auto-convert it to BNB and then place that BNB into the presale fundraiser.\
-Once you've decided on the coin and the amount you wish to invest, just click on "Enter presale" and accept whatever approvals your wallet app asks you to in order for the transaction to execute.
+在查看预售信息时，如果满意并想投资，可以点击“选择”按钮并选择您想要使用的币种或代币进行投资。\
+通常您会选择 BNB（或在 Ethereum 上选择 ETH），但您可以使用钱包中的任何代币投资。例如，您可以用 USDT 或 FEG 投资，系统会自动将其转换为 BNB，然后将 BNB 投入预售筹资。\
+确定币种和金额后，只需点击“进入预售”，并接受钱包应用的所有授权，以执行交易。
 
-## 3. Exit the presale before the end
+## 3. 在预售结束前退出
 
 <figure><img src="../../../.gitbook/assets/exit presale investor.jpg" alt=""><figcaption></figcaption></figure>
 
-If for some reason you wish to exit the presale before it ends and recover your money, you can do so. Simply go back to the presale, click on "Open details" and go where it says "Exit presale". This will send your investment back to your wallet in the form of wBNB, regardless of the coin you used in your initial investment, be it BNB, or USDT, or FEG, or anything else.\
-If you exit a presale and then change your mind, you can enter that presale again but you may only do it one more time and that's it, after that the system will block you from re-entering if you exit yet again.
+如果在预售结束前想退出并取回资金，可以简单地返回预售页面，点击“打开详情”，然后选择“退出预售”。这会将投资资金以 wBNB 的形式返回到钱包，无论最初使用的是 BNB、USDT、FEG 还是其他代币。\
+如果退出后又改变主意，您可以重新进入预售，但只能再参与一次，系统会阻止您再次退出并重新进入。
 
 {% hint style="success" %}
-You can exit a presale whenever you wish, up until the moment the presale ends
+您可以随时退出预售，直到预售结束前的任何时刻。
 {% endhint %}
 
-## 4. Claiming funds after presale end
+## 4. 预售结束后的资金领取
 
-A presale can end in 3 ways and this will also affect the way you can recover the funds invested in it.
+预售可以通过三种方式结束，这也会影响您如何取回投资的资金。
 
-### 4.1 Presale ended at Hardcap
+### 4.1 在硬顶结束的预售
 
 <figure><img src="../../../.gitbook/assets/closed at hardcap.jpg" alt=""><figcaption></figcaption></figure>
 
-If the presale was completely successful and managed to gather all the BNB needed, then the presale will end at the exact moment that hardcap is reached, regardless if this happens barely 1 day after the presale started and the initial time limit was set for another 60 days.\
-At any point after the presale ends you will need to go to the Presale page on FEGex, in the "Completed" category, open your specific presale and click on "Enable shares" button in order for all investors to be able to start claiming their shares based on the vesting schedule the project initially set up for this particular presale. Note that once this button is activated it will stop showing up for all other investors, which is ok.\
-Now you will notice a button called "Claim shares". In order to claim the entirety of your currently unlocked share simply type 100 (as in 100% of the share) and click the button. This will cause your unlocked share of the LP tokens to be burned and:\
-\- for the SD/BNB pair the SD tokens will be burned and you will receive the BNB they were paired with, plus the BNB for the asset backing for said burned SD tokens\
-\- for the SD/FEG pair the SD tokens will be burned and you will receive the BNB for the asset backing value, plus you will receive the FEG tokens in your wallet to do with as you wish.
+如果预售完全成功并收集到所需的所有 BNB，那么在达到硬顶的确切时刻预售将结束，无论预售是否才开始一天，最初的时间限制为 60 天。\
+在预售结束后的任何时刻，您需要前往 FEGex 的预售页面，在“已完成”类别中打开您的特定预售并点击“启用股份”按钮，以便所有投资者可以根据该预售最初设定的解锁时间表开始申领股份。注意，一旦此按钮激活，将不再显示给其他投资者，这是正常的。\
+现在，您会看到一个“申领股份”按钮。为了申领当前已解锁的全部股份，输入 100（即 100% 的股份）并点击按钮。这将导致您的解锁股份流动性代币被销毁，并且：\
+\- 对于 SD/BNB 配对，SD 代币将被销毁，您将收到与之配对的 BNB，以及被销毁的 SD 代币的资产支持 BNB\
+\- 对于 SD/FEG 配对，SD 代币将被销毁，您将收到资产支持价值的 BNB，并将 FEG 代币存入您的钱包供您随意使用。
 
 {% hint style="warning" %}
-Note: The SmartDeFi protocol works best with 1e18 decimals types of assets in asset backing. The tokens with asset backing that has less than 15 decimals will not claim the asset backing portion during Claim Share. LGE participants do get the share of liquidity as intended in this scenario and those types of tokens has full SmartDeFi functionality, only the asset backing claim during Claim Share from LGE can be impacted by the decimas of assets in asset backing.
+注意：SmartDeFi 协议在资产支持中与 1e18 小数类型的资产效果最佳。如果资产支持的代币小数位少于 15，LGE 期间的股份申领可能无法领取资产支持部分。LGE 参与者在这种情况下仍会获得预期的流动性份额，且这些代币完全具有 SmartDeFi 功能，仅 LGE 中的股份申领会受资产支持小数的影响。
 
-The SmartDeFi Protocol allows a change of asset backing after LGE completion, if project owner chooses to do so. If project changes their asset backing from 18 decimals asset to less than 18 decimals after LGE completion the LGE participants will not be claiming asset backing portions during LGE claims but will continue claiming liquidity portions.
+如果项目所有者在 LGE 完成后更改资产支持，小数少于 18 的资产会影响 LGE 期间的股份申领，但流动性份额不受影响。
 {% endhint %}
 
 {% hint style="success" %}
-If for some reason you come say 2 years after the presale is ended, basically all of your shares are unlocked as the vesting schedule is long ended by now, however you still cannot claim everything at once. \
-There is a hardcoded limit of a minimum of 24 hours cooldown between claims. \
-This way the system ensures the LP size is not heavily affected if someone with a very large share of the total LP comes and tries to take it out all at once, after the vesting ends.
+如果您在预售结束后很长时间后（如 2 年后）来申领股份，您的所有股份将已解锁，因为解锁时间表已过，但您仍无法一次性申领所有股份。\
+系统硬编码设定了最少 24 小时的申领冷却时间，以确保即使有大量股份的用户在解锁结束后尝试一次性提取也不会对流动性池造成严重影响。
 {% endhint %}
 
-### 4.2 Presale ended at Softcap
+### 4.2 在软顶结束的预售
 
 <figure><img src="../../../.gitbook/assets/closed with softcap.jpg" alt=""><figcaption></figcaption></figure>
 
-Once the presale's time limit is reached and it has managed to gather the amount needed for softcap, it is considered the presale is successful and will be placed in the "Completed" category.\
-At this point anyone (investor or not) can come in this menu, click on "Open details" and then in the new popup menu they can click on "Force end presale".\
-Once the presale has been ended by an user, the dev or an investor needs to click on "enable shares" to let the investors claim their shares from the LP, based on the schedule the dev set at the start. Note that once this button is activated it will stop showing up for all other investors, which is ok.\
-Now you will notice a button called "Claim shares". In order to claim the entirety of your currently unlocked share simply type 100 (as in 100% of the share) and click the button. This will cause your unlocked share of the LP tokens to be burned and:\
-\- for the SD/BNB pair the SD tokens will be burned and you will receive the BNB they were paired with, plus the BNB for the asset backing for said burned SD tokens\
-\- for the SD/FEG pair the SD tokens will be burned and you will receive the BNB for the asset backing value, plus you will receive the FEG tokens in your wallet to do with as you wish
+预售的时间限制到达并达到软顶时，视为预售成功并列入“已完成”类别。\
+此时任何人（无论是否投资者）都可以进入此菜单，点击“打开详情”，在新弹出菜单中点击“强制结束预售”按钮。\
+预售被用户结束后，开发者或投资者需要点击“启用股份”以便投资者从流动性池中领取股份，基于开发者最初设定的时间表。注意，一旦此按钮激活，将不再显示给其他投资者，这是正常的。\
+现在，您会看到一个“申领股份”按钮。为了申领当前已解锁的全部股份，输入 100（即 100% 的股份）并点击按钮。这将导致您的解锁股份流动性代币被销毁，并且：\
+\- 对于 SD/BNB 配对，SD 代币将被销毁，您将收到与之配对的 BNB，以及被销毁的 SD 代币的资产支持 BNB\
+\- 对于 SD/FEG 配对，SD 代币将被销毁，您将收到资产支持价值的 BNB，并将 FEG 代币存入您的钱包供您随意使用
 
-### 4.3 Failed presale
+### 4.3 失败的预售
 
 <figure><img src="../../../.gitbook/assets/presale failed.jpg" alt=""><figcaption></figcaption></figure>
 
-The presale will automatically be moved in the "Failed" category if the time limit has been reached but it did not manage to gather enough funds to reach the Softcap minimum limit.\
-At this point any investor can click on "Open details" and then in the popup menu find the "Abort presale" button. Once that is clicked and the transaction executes, the button will disappear for all other investors, which is ok.\
-You will now be presented with the "Exit presale" button, clicking this will cause your presale funds to return back into your wallet, in the form of wBNB, so now you've recovered your money.
+如果时间限制到达但未能收集足够的资金达到软顶，预售将自动被移入“失败”类别。\
+此时任何投资者可以点击“打开详情”，然后在弹出菜单中找到“中止预售”按钮。点击该按钮并执行交易后，按钮将不再显示给其他投资者，这是正常的。\
+现在您会看到“退出预售”按钮，点击此按钮会将预售资金以 wBNB 形式返回到您的钱包，您已成功取回资金。
 
-### 4.4 Lock LP
+### 4.4 锁定流动性池
 
 <figure><img src="../../../.gitbook/assets/lock LP menu.jpg" alt=""><figcaption></figcaption></figure>
 
-This option is very useful for people who wish to lock their LP tokens instead of claiming them. \
-For example, in the case of the dev share, the dev can choose to lock their LP tokens in order to give a better sense of security to the project investors, in the sense that they know the LP will not become thin because the dev cannot burn their LP share, as its locked using this option.
+该选项非常适合希望锁定其流动性代币而不是申领的用户。\
+例如，开发者可以选择将其流动性代币锁定，以提高项目投资者的安全感，让他们知道开发者的流动性份额不能被销毁，从而确保流动性池的稳固性。
 
-## 5. Rewards for investors
+## 5. 投资者的奖励
 
-### Increasing your initial BNB via trades
+### 通过交易增加您的初始 BNB
 
-When you become an investor into an LGE-style presale, you essentially become a liquidity provider, so what does this mean for you ?\
-Say you've invested into an LGE where, to make it easy, your share of the entire liquidity pool is 50% of the pool and your share is in the form of 100 SD tokens and 100 BNB when the presale ends at hardcap.\
-Now when that project launches and people start buying tokens, they will buy said tokens from YOU and whoever holds the other 50% of the liquidity pool, because you are the liquidity providers.\
-Let's make a simple exercise:\
-\- just say someone comes and buys 50 SD tokens and pays for it 50 BNB for it\
-\- this means now the entire liquidity pool will hold 150 SD tokens and 250 BNB\
-\- your share would now be 75 SD tokens and 125 BNB, so you just gained more BNB from a sale, this is how liquidity works, you gain more and more BNB from people buying from you
+成为 LGE 风格预售的投资者实际上等同于成为流动性提供者，这对您意味着什么？\
+假设您参与了一个 LGE，并且您在整个流动性池中占有 50% 的份额，在硬顶结束时您的份额为 100 SD 代币和 100 BNB。\
+当项目上线后，人们开始购买代币，他们会从您和其他流动性提供者处购买，因为您们是流动性提供者。\
+以下是一个简单的例子：\
+\- 假设有人购买了 50 SD 代币并支付了 50 BNB\
+\- 这意味着整个流动性池现在持有 150 SD 代币和 250 BNB\
+\- 您的份额现在是 75 SD 代币和 125 BNB，因此您通过销售获得了更多的 BNB，这就是流动性的运作方式，您可以通过人们的购买获得越来越多的 BNB
 
-### Bonus rewards via liquidity taxes
+### 通过流动性税收获得额外奖励
 
-Every trading platform has inbuilt trading taxes for everything that happens under their roof, and Pancakeswap and Uniswap are no different, this means every trade done there gets taxed X% ontop of whatever other tokenomics that particular token being traded has. \
-There are also vastly different taxations on these platforms, where normally liquidity is stored, but for example in a 0.25% tax pool, the people who provide the liquidity receive 68% of said 0.25% so they receive 0.17% of every trade done inside the pool where they provide liquidity. \
-Now that 0.17% gets shared among all people who provide the liquidity in that particular pool. \
-So each liquidity provider gets a portion of that 0.17% based on how much is their share of the entire liquidity pool. \
-From our previous example, if you hold half the liquidity pool, that means you get 0.085% of the bonus income from these taxes, which may not seem like much, but trust me, when we're talking about volume of hundreds of thousands of dollar per day, it adds up quick.
+每个平台都有内置的交易税，Pancakeswap 和 Uniswap 也不例外，这意味着每笔交易都会有 X% 的税费。\
+例如，在 0.25% 税的流动性池中，流动性提供者可以收到其中的 68%，即 0.17% 的每笔交易税。\
+现在这 0.17% 将按流动性池中每位提供者的份额进行分配。\
+从之前的例子来看，如果您持有一半的流动性池，这意味着您将获得 0.085% 的税收收入。尽管这看起来不多，但当我们谈到每日数十万美元的交易量时，它将快速累积。

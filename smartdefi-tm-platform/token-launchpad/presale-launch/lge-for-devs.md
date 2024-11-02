@@ -1,138 +1,136 @@
-# 👤 LGE for Devs
+# 👤 开发者的流动性生成活动（LGE）
 
 {% hint style="info" %}
-This page is being updated with the latest implementations&#x20;
+本页面正在更新最新的实施内容。
 {% endhint %}
 
 {% embed url="https://www.youtube.com/watch?v=7SpIEcXtqYY" %}
 
-Suppose you don't have the private funds to add liquidity to your SmartDeFi project, in that case, you can gather liquidity from investors using the Liquidity Generation Event system, LGE for short, or known as _"presale"_ for the simple folks as myself.
+如果您没有私人资金为您的 SmartDeFi 项目增加流动性，可以使用流动性生成活动（LGE）系统从投资者那里获取流动性，简称为 LGE，或者通俗地称之为“预售”。
 
-## Step 1 - Deploy the LGE
+## 第一步 - 部署 LGE
 
 <figure><img src="../../../.gitbook/assets/deploy LGE jan.jpg" alt=""><figcaption></figcaption></figure>
 
-As you've noticed, the LGE Deployer has quite a few options for you to customize, so let's quickly go through each of them:
+您会注意到，LGE 部署器有很多选项供您自定义，让我们快速浏览每个选项：
 
-**• Tokens for LGE**  (SD-tokens amount)\
-Here, you can decide how much of your SD-token supply you wish to give towards the presale. It is advised you place 100% of the supply.
+**• LGE 代币**  (SD 代币数量)\
+在这里，您可以决定向预售提供多少 SD 代币供应。建议您放置 100% 的供应量。
 
-**• Rate**  (SD-tokens per BNB)\
-The number of tokens you choose here will decide the price people buy your token for during the presale and immediately after.\
-\- Note: Whatever setting you pick in the "Backing share" field will also affect the price.
+**• 费率**  (每 BNB 的 SD 代币数量)\
+您在此选择的代币数量将决定预售期间和之后代币的价格。\
+\- 注意：“支持份额”字段中的设置也会影响价格。
 
-**• Max buy**  (BNB/ETH)\
-The maximum number of BNB/ETH investors can use to buy into your presale.
+**• 最大购买量**  (BNB/ETH)\
+投资者可以使用的最大 BNB/ETH 数量来参与您的预售。
 
-**• Start date and time** \
-You may pick an exact day and hour when the presale can activate and run.
+**• 开始日期和时间** \
+您可以选择预售开始并运行的确切日期和时间。
 
-**• Duration** (Days)\
-The number of days you wish your presale to run before it closes automatically.
+**• 持续时间** (天数)\
+预售在自动关闭前运行的天数。
 
-**• Vesting delay**  (Days)\
-The system can release locked liquidity in batches, and you can decide how many days to have between each batch.
+**• 解锁延迟**  (天数)\
+系统可以分批释放锁定流动性，您可以决定每批之间的天数。
 
-**• Vesting rate**  (%)\
-You can decide how much of the locked liquidity to release during each unlock batch phase.
+**• 解锁率**  (%)\
+您可以决定在每次解锁批次阶段释放多少锁定流动性。
 
-**• Backing share** (%)\
-When the LGE finishes the presale, a percentage of the gathered BNB/ETH can be injected into asset backing to create a more stable token. It is advised to place 50% so that once released, the token's price will initially be similar to its asset backing value.
+**• 支持份额** (%)\
+预售结束后，系统可以将收集到的 BNB/ETH 的一部分注入资产支持中，以创建更稳定的代币。建议设置为 50%，这样一旦释放，代币价格将最初与其资产支持价值相似。
 
-**• Dev Share** (%)\
-The system can give the SD owner a percentage of the liquidity and vest it, as it's also vested for regular investors. The project can use this share for whatever they need, like marketing, CEX listings, etc.
+**• 开发者份额** (%)\
+系统可以为 SD 所有者提供一部分流动性，并将其按照普通投资者的相同方式进行解锁。该份额可用于各种用途，如营销、CEX 上市等。
 
-**• FEG share** (%)\
-The system will place the gathered BNB/ETH into two liquidity pools, one for SD/BNB and one for SD/FEG. You may choose how to split these two liquidity pools. This also insures that your investors have an opportunity for arbitrage right out of the gate, so more income for you via taxes.
+**• FEG 份额** (%)\
+系统将收集的 BNB/ETH 放入两个流动性池，一个用于 SD/BNB，另一个用于 SD/FEG。您可以选择如何分配这两个流动性池。这样可以确保您的投资者从一开始就有套利机会，从而通过税收为您带来更多收入。
 
-Now that you've picked all your preferred settings for the LGE, it is time to hit the "_Approve_" button at the bottom, accept whatever approvals you receive from your wallet app, and cover the required blockchain gas fees for transaction execution.\
+现在您已为 LGE 选择了所有偏好设置，是时候点击底部的“_批准_”按钮，接受钱包应用的所有授权，并支付区块链交易所需的燃气费。\
 \
-Once that is done, you'll see a new button called "_Deploy_" click it and accept the wallet approvals, and then that's it, your LGE is now deployed and ready to roll based on the settings you picked.
+完成后，您会看到一个新的“_部署_”按钮，点击并接受钱包的批准，然后就完成了，您的 LGE 已部署并根据您的设置准备启动。
 
-### 1.1 Edit the LGE before it activates
+### 1.1 在 LGE 激活之前进行编辑
 
 <figure><img src="../../../.gitbook/assets/edit presale after.jpg" alt=""><figcaption></figcaption></figure>
 
-Once you create the presale, you have a grace period where you can still edit it before it actually starts. \
-In your token's dashboard click on "Edit LGE" and that will open a new popup menu where you'll notice all the settings you just made earlier and also next to each there will be an "edit" button, click it and this will allow you to edit whatever you need.\
-Remember that you cannot perform any edits once the presale has started and is live.
+创建预售后，您有一个宽限期，可以在其实际开始之前进行编辑。\
+在您的代币仪表板上点击“编辑 LGE”，这将打开一个新菜单，您可以看到之前设置的所有选项，并且每个选项旁边都有一个“编辑”按钮，点击它，您可以编辑任何需要的内容。\
+请记住，一旦预售开始并上线，就无法进行任何编辑。
 
-### 1.2 Whitelisting addresses for presale
+### 1.2 为预售设置白名单地址
 
 <figure><img src="../../../.gitbook/assets/whitelist address.jpg" alt=""><figcaption></figcaption></figure>
 
-When you edit the presale, before it goes live, you have the option to add a whitelist to your presale, meaning you can add a number of wallet addresses that are VIPs and who will be a secured spot in the presale once it goes live, meaning the presale will be locked to the general public, until the VIPs buy into the presale. \
-Every VIP can only invest into the presale the same amount of ETH/BNB as any other user can, so the max amount has the same cap for everyone.\
-You will first need to enable the whitelist, then you add the addresses you wish and finally you click on the "whitelist addresses" button.\
-After all the whitelisted addresses buy into the presale, then the presale will automatically open up to the general public and everyone can start investing.\
-The presale will be locked towards the public until ALL the whitelisted addresses buy into the presale.\
-You as the dev can also remove people from the whitelist, if you need to. You can also disable the whitelist entirely if you decide so, some time after you've already enabled it, if for example one of the whitelisted wallets goes inactive and doesn't buy into the presale, thus keeping the presale locked for the average users. So you have the option to boot people from the whitelist or disable it entirely, if you have such problems with one or more users.
+在预售上线之前，您可以选择为预售添加白名单，这意味着您可以添加 VIP 钱包地址，这些地址将有优先购买权，使预售对公众锁定，直到 VIP 购买预售。\
+每个 VIP 可以投入的 ETH/BNB 数量与其他用户相同，因此最大限额对所有人都一样。\
+首先需要启用白名单，然后添加您想要的地址，最后点击“白名单地址”按钮。\
+所有白名单地址买入后，预售将自动向公众开放。\
+作为开发者，您可以从白名单中移除用户或完全禁用白名单，以防出现用户未参与导致预售无法开放的情况。
 
-## Step 2 - Ending the LGE and launching project
+## 第二步 - 结束 LGE 并启动项目
 
-If you as the DEV don't open up trading within 72 hours after LGE ends, then your investors will be able to cancel their participation into the LGE and can recover their invested funds.
+如果作为开发者的您在 LGE 结束后 72 小时内未开启交易，那么您的投资者可以取消参与 LGE 并取回其投资资金。
 
-If the 72h limit passes and people start withdrawing their money from the presale pool and if amount falls below softcap, the DEV will still be able to launch the project for trading.
+72 小时后，如果资金低于软顶，开发者仍可启动项目进行交易。
 
-The presale can be ended in 3 ways:
+预售可以通过三种方式结束：
 
-### 2.1 Presale sold out and Hardcap was reached
+### 2.1 预售售罄并达到硬顶
 
-If you managed to gather all the BNB you set out to raise, then your presale will end the moment that hardcap is reached, regardless if this happens barely 1 day after the presale started and your initial time limit was set for 90 days.\
-Once the presale end, you as the DEV will need to manually open up the trading via our UI, at which point the system automatically sets up your liquidity pools on Pancakeswap for BNB or on Uniswap for ETH and BASE.\
-After that, you or your investors will need to go to the presale's page on FEGex and click on "Enable shares" button so that your investors can start claiming their shares based on your set schedule.
+如果您成功收集到所有计划的 BNB，预售将在硬顶达到时结束，即使预售才开始一天，原定时限为 90 天。\
+预售结束后，您需手动通过 UI 开启交易，系统会自动在 Pancakeswap（BNB）或 Uniswap（ETH 和 BASE）上建立流动性池。\
+然后，您和投资者需要前往 FEGex 的预售页面，点击“启用股份”按钮，以便投资者根据设定的时间表开始申领股份。
 
-### 2.2 Presale ends and only Softcap is reached
+### 2.2 预售结束且仅达到软顶
 
 <figure><img src="../../../.gitbook/assets/closed with softcap (1).jpg" alt=""><figcaption></figcaption></figure>
 
-Once the presale's time limit is reached and it has managed to gather the amount needed for softcap, it is considered the presale is successful and will be placed in the "Completed" subcategory.\
-At this point anyone (investor or not) can come and click on "Force end presale".\
-The system automatically sets up your liquidity pools on Pancakeswap for BNB or on Uniswap for ETH and BASE.\
-After that, you or your investors will need to go to the presale's page on FEGex and click on "Enable shares" button so that your investors can start claiming their shares based on your set schedule.
+如果预售时间到达并达到软顶，则视为预售成功并列入“已完成”子类别。\
+此时任何人（投资者或非投资者）都可以点击“强制结束预售”按钮。\
+系统会自动在 Pancakeswap（BNB）或 Uniswap（ETH 和 BASE）上建立流动性池。\
+然后，您和投资者需前往 FEGex 的预售页面，点击“启用股份”按钮，以便投资者根据设定的时间表开始申领股份。
 
-### 2.3 Presale ends but Softcap is NOT reached
+### 2.3 预售结束但未达到软顶
 
 <figure><img src="../../../.gitbook/assets/presale failed (1).jpg" alt=""><figcaption></figcaption></figure>
 
-The presale will automatically be moved in the "Failed" subcategory if your time limit has reached but you did not managed to gather enough funds for softcap.\
-At this point any investor can click on the "Abort presale" button and then the "Exit presale" button, clicking this will cause your presale funds to return back into your wallet, in the form of wrapped BNB/ETH.
+如果您的预售时间到达但未达到软顶，预售将自动被移至“失败”子类别。\
+此时任何投资者可以点击“中止预售”按钮，然后点击“退出预售”按钮，资金将以包装 BNB/ETH 的形式返回投资者钱包。
 
-### 2.4 Special conditions for presale end
+### 2.4 特殊条件下的预售结束
 
-After a presale ends, the DEV has a grace period of 72h to launch the trading of his project, otherwise if they don't, after that point the investors can come and start withdrawing their investment.
+在预售结束后，开发者有 72 小时的宽限期来启动项目的交易，否则投资者可以开始提取投资资金。
 
-If softcap/hardcap is reached but dev doesn't deploy trading after said 72h, if most investors withdraw their money and the gathered funds fall below softcap level (but non zero) the dev can still deploy the presale with remaining funds.
+若达到软顶/硬顶，但开发者未在 72 小时内启动交易，投资者可以撤资，资金降至软顶以下，开发者仍可以剩余资金部署预售。
 
-If softcap/hardcap reached but then project didn't launch and everyone left (no funds remaining), the dev can later use endLGE and abortLGE and relaunch a new presale with new settings.
+若达到软顶/硬顶但项目未启动且资金全部撤回，开发者可稍后使用 endLGE 和 abortLGE 并以新设置重新启动预售。
 
-If softcap is not reached, the dev can use abortLGE and create a new LGE with new settings.
+若未达到软顶，开发者可以使用 abortLGE 并创建新 LGE。
 
-## EXAMPLE
+## 示例
 
-Let's say you just made a project with 100,000 tokens and you placed all of them into the presale.
+假设您创建了一个项目，代币供应量为 100,000，并将其全部放入预售。
 
-Say you have a hardcap of 1000 BNB. The first thing you need to figure out is the asset backing share, for this example let's say 35%. \
-35% out of 1,000 = 350 BNB goes to asset backing. \
-So 1,000-350= 650 BNB, this is how much will be left to go into LP.
+假设硬顶为 1000 BNB。首先确定资产支持份额，本示例为 35%。\
+1000 的 35% 为 350 BNB，注入资产支持。\
+所以 1000-350= 650 BNB，这将进入流动性池。
 
-Now the second part of this math operation begins. \
-This remaining 650 BNB will be split among the BNB pool and FEG pool. \
-Let's say FEG will have a share of 30%, which automatically means the BNB pool will be 70%. \
-So 30% out of 650 = 195 BNB, this is how much BNB will be used to buy FEG and set up the SD/FEG pool. \
-650-195= 455 BNB, this is how much BNB will be in the SD/BNB pool.
+然后将这 650 BNB 分为 BNB 池和 FEG 池。\
+假设 FEG 的份额为 30%，BNB 池为 70%。\
+650 的 30% 为 195 BNB，将用于购买 FEG 并建立 SD/FEG 池。\
+650-195= 455 BNB，将进入 SD/BNB 池。
 
-Now for the last part. \
-Say you want a 5% dev share for the project. This means that the dev will receive 5% of the SD/FEG pool and 5% of the SD/BNB pool. \
-So the dev will receive:\
-\- 22.75 BNB worth of SD/BNB vested LP (455 \* 5%)\
-\- 9.75 BNB worth of SD/FEG vested LP (195 \* 5%) \
-These numbers are valid right at the moment the presale ends. After that trading will begin and when the liquidity pool increases the $ value of the 5% dev share increases too.
+最后部分。\
+假设项目的开发者份额为 5%。这意味着开发者将获得 SD/FEG 池和 SD/BNB 池的 5%。\
+所以开发者将收到：\
+\- 22.75 BNB 的 SD/BNB 持仓（455 \* 5%）\
+\- 9.75 BNB 的 SD/FEG 持仓（195 \* 5%）\
+这些数值在预售结束时有效。交易开始后，流动性池增加，5% 开发者份额的价值也会增加。
 
-## DEV share
+## 开发者份额
 
-You as the developer of your project have the option to activate a DEV share when you set up the LGE that can go up to 50% of the total BNB gathered in the presale. \
-After the presale ends you'll be entitled to claim your shares on the same schedule as the rest of the investors, with a single exception. \
-Unlike the normal investors, you as the dev can claim a larger first vested share. The formula for the first vested share is amt \* (51 - devshare) / 10. The "amt" is what everyone gets from the vesting schedule at the start, ensuring everyone has a fair beginning.\
-This means that the smaller your DEV share % is, the larger your first vested claim can be, so if for example your DEV share is 20%, the formula is (51-20)/10 = 3.1x which means your vesting rate will be 3.1 times larger for you, on first claim only, when compared to the rest of the investors. \
-This is set up like this to help new projects in case they need funds early on for various tasks like paying for a CEX, hiring more DEVs, paying for marketing and so on.&#x20;
+作为项目开发者，在设置 LGE 时可以启用开发者份额，最多可达预售总 BNB 的 50%。\
+预售结束后，您可以按照与投资者相同的时间表领取份额，但有一个例外。\
+与普通投资者不同，开发者可以获得更大的首批解锁份额。首批解锁份额的公式为 amt \* (51 - devshare) / 10，其中“amt”为起始时所有人从解锁时间表中获得的数量，确保每个人有一个公平的开始。\
+这意味着开发者份额越小，首批解锁的份额越大。例如，若开发者份额为 20%，公式为 (51-20)/10 = 3.1 倍，这意味着首批解锁份额将为其他投资者的 3.1 倍。\
+这种设置帮助新项目在早期获得资金，用于支付 CEX、雇佣更多开发人员、市场推广等任务。

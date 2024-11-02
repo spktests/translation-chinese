@@ -1,23 +1,23 @@
-# 🌟 SmartDeFi Protocol
+# 🌟 SmartDeFi 协议
 
-### **Unleash the Power of SmartDeFi**
+### **释放 SmartDeFi 的力量**
 
-SmartDeFi is a next-gen Token Launchpad developed by the [FEG](https://fegtoken.com/) Team, led by the renowned developer [FEGrox](https://twitter.com/lifeisdefi), and [audited](https://github.com/peckshield/publications/blob/master/audit\_reports/PeckShield-Audit-Report-FEG-SmartDeFi-v1.1.pdf) by independent security experts like [Peckshield](https://peckshield.com/) and [Sourcehat](https://sourcehat.com/).
+SmartDeFi 是由 [FEG](https://fegtoken.com/) 团队开发的下一代代币发行平台，领军者是著名开发者 [FEGrox](https://twitter.com/lifeisdefi)，并经过 [Peckshield](https://peckshield.com/) 和 [Sourcehat](https://sourcehat.com/) 等独立安全专家的[审计](https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-FEG-SmartDeFi-v1.1.pdf)。
 
-Creating SmartDeFi was a massive undertaking that spanned several years, involved over 100 developers, testers, and auditors, and cost over a million dollars in development.
+创建 SmartDeFi 是一项浩大的工程，历时数年，涉及超过 100 名开发人员、测试人员和审计员，开发成本超过百万美元。
 
-SmartDeFi, or SD, allows users to create arguably the most advanced crypto tokens on the market. It features a singular supply on multiple blockchains, such as BSC, ETH, and BASE, with plans for further expansion.
+SmartDeFi（简称 SD）允许用户创建可以说是市场上最先进的加密代币。它在 BSC、ETH 和 BASE 等多个区块链上拥有单一供应，并计划进一步扩展。
 
-This cutting-edge technology is available free of charge through the SmartDeFi Token Launchpad.
+这种尖端技术通过 SmartDeFi 代币发行平台免费提供。
 
-### Features of your next-generation crypto project
+### 下一代加密项目的功能
 
-At the heart of SmartDeFi tokens lies a comprehensive suite of features, some of which are:
+SmartDeFi 代币的核心是一整套综合功能，其中一些功能包括：
 
-<table data-card-size="large" data-column-title-hidden data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td>Cross-chain bridge integration</td><td>Native support for singular token supply across multiple blockchains</td><td></td></tr><tr><td>Real-World Assets Tokenization</td><td>Transform physical assets into digital tokens for seamless ownership on the blockchain</td><td></td></tr><tr><td><strong>Advanced Tokenless Presale Fundraising</strong></td><td>Innovative fundraising attracts investors with the safety this provides for their funds</td><td></td></tr><tr><td><strong>Staking Protocol</strong></td><td>Reward loyal holders by maximizing the passive potential earnings for your token</td><td></td></tr><tr><td><strong>Asset-Backed Value</strong></td><td>Enjoy an ever-rising baseline value due to  a robust asset-backing mechanism</td><td></td></tr><tr><td><strong>Interest-Free Loans</strong></td><td>Extendable interest-free loans let holders use the loaned funds for more investments</td><td></td></tr><tr><td><strong>Dual Liquidity Pools for Arbitrage</strong></td><td>Enhance liquidity depth and optimize the token's value with arbitrage between pools</td><td></td></tr><tr><td><strong>Editable Tokenomics Before/After Launch</strong></td><td>Customize taxes and pick RFI or non-RFI to respond to market and community feedback</td><td></td></tr><tr><td><strong>Vested LP &#x26; Optional Liquidity Locker</strong> </td><td>Prevent volatility &#x26; dumping with scheduled LP vesting or lock LP in the contract for security</td><td></td></tr><tr><td><strong>Front-Run Loss Protection</strong></td><td>Shield investors from front-running attacks, ensuring the integrity of your project</td><td></td></tr><tr><td><strong>Deep Customization via SDscan</strong></td><td>Interrogate for information or customize a project smart contract after the launch</td><td></td></tr><tr><td><strong>Integration with FEGtrack App</strong></td><td>Integration with the FEGtrack app for real-time token insights and overall ecosystem health</td><td></td></tr></tbody></table>
+<table data-card-size="large" data-column-title-hidden data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td>跨链桥集成</td><td>在多个区块链上原生支持单一代币供应</td><td></td></tr><tr><td>现实资产代币化</td><td>将物理资产转化为数字代币，实现无缝的区块链所有权</td><td></td></tr><tr><td><strong>先进的无代币预售筹资</strong></td><td>创新的筹资方式，为投资者提供资金安全保障</td><td></td></tr><tr><td><strong>质押协议</strong></td><td>奖励忠诚的持有者，最大化代币的被动收益潜力</td><td></td></tr><tr><td><strong>资产支持价值</strong></td><td>通过强大的资产支持机制享受不断上升的基础价值</td><td></td></tr><tr><td><strong>无息贷款</strong></td><td>提供可延期的无息贷款，让持有者将借款用于更多投资</td><td></td></tr><tr><td><strong>双流动性池套利</strong></td><td>通过池间套利增强流动性深度并优化代币价值</td><td></td></tr><tr><td><strong>发售前/后可编辑的代币经济学</strong></td><td>可根据市场和社区反馈调整税收，并选择 RFI 或非 RFI</td><td></td></tr><tr><td><strong>Vested LP &#x26; 可选流动性锁仓</strong></td><td>通过计划 LP 锁仓或合约锁仓减少波动和抛售，确保安全</td><td></td></tr><tr><td><strong>防前置攻击保护</strong></td><td>保护投资者免受前置攻击，确保项目的完整性</td><td></td></tr><tr><td><strong>通过 SDscan 深度自定义</strong></td><td>发布后通过 SDscan 获取信息或自定义项目智能合约</td><td></td></tr><tr><td><strong>与 FEGtrack 应用集成</strong></td><td>与 FEGtrack 应用集成，提供实时代币见解和整体生态健康状况</td><td></td></tr></tbody></table>
 
-### Support
+### 支持
 
-Please keep reading any of our Gitbook pages and guides to learn more about this great system and launchpad, and if you have any questions about it, join the official Telegram chat:
+请继续阅读我们的 Gitbook 页面和指南，以深入了解该出色的系统和发行平台。如有任何疑问，请加入官方 Telegram 聊天群：
 
 ### [https://t.me/SDlistings](https://t.me/SDlistings)
