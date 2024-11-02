@@ -1,34 +1,36 @@
-# 🙊 About FEG token
+# 🙊 关于 FEG 代币
 
-### What is FEG Token?
+### 什么是 FEG 代币？
 
-FEG is a decentralized crypto project with a singular supply that allows people to buy, trade, bridge between the ETH, BNB and BASE blockchains. \
-It is the token around which the entire SmartDeFi ecosystem is built, vastly increasing its demand and uses as more features are added to the ecosystem.
+FEG 是一个去中心化的加密项目，具有单一的供应量，允许用户在 ETH、BNB 和 BASE 区块链之间买入、交易和桥接。\
+它是构建整个 SmartDeFi 生态系统的核心代币，随着生态系统中功能的不断增加，其需求和用途也大大提升。
 
-### Passive Income Opportunities
+### 被动收入机会
 
-FEG holders can earn passive income through [FEG Staking](../feg-staking/), the [fully audited](../../welcome/security-audits.md) protocol which allows FEG stakers to receive rewards from FEG trading and ALL other projects utilizing the SmartDeFi staking protocol on their respective chain.\
-Staking opens the door to various income possibilities as rewards flow from hundreds of projects launched via the SmartDeFi Launchpad, making FEG staking an absolute monster for passive income.\
-Rewards earnings vary on each chain based on their volume and coming FEG platforms such as the SmartDeFi Token Launchpad, FTW P2P trading, Aggregator, and others.
+FEG 持有者可以通过 [FEG 质押](../feg-staking/)获得被动收入，这是一个[经过全面审计](../../welcome/security-audits.md)的协议，允许 FEG 质押者从 FEG 交易以及所有使用 SmartDeFi 质押协议的项目中获得奖励。\
+质押开启了多种收入可能性，奖励来自于通过 SmartDeFi 启动平台发布的数百个项目，使得 FEG 质押成为被动收入的强大来源。\
+每个链上的奖励收益取决于交易量以及即将上线的 FEG 平台，如 SmartDeFi 代币启动平台、FTW 点对点交易、聚合器等。
 
-### A store of value
+### 价值存储
 
-At the heart of FEG lies its [asset-backing](../../smartdefi-tm-platform/smartdefi-protocol/asset-backing.md) feature, offering a store of value with a continuously increasing baseline. This distinctive attribute is backed by the native coin on  and generated from various FEG ecosystem sources. \
-Holders of FEG also benefit from the [SmartLending](../../smartdefi-tm-platform/smartdefi-protocol/smartlending.md) feature, enabling them to take interest-free loans against the asset-backed value of their token holdings.
+FEG 的核心功能是其[资产支持](../../smartdefi-tm-platform/smartdefi-protocol/asset-backing.md)特性，提供了一个具有不断增加的基准值的价值存储。这个独特的属性由原生代币支持，并通过 FEG 生态系统的各种来源生成。\
+FEG 持有者还可以使用 [SmartLending](../../smartdefi-tm-platform/smartdefi-protocol/smartlending.md) 功能，根据其代币持有的资产支持价值获得免息贷款。
 
-### Trade with Confidence
+### 信心十足地交易
 
-FEG trades with a robust set of [tokenomics](feg-tokenomics.md), providing flexibility that can be adapted to meet the project's specific needs at any given time. \
-Currently trading on decentralized exchanges like [SmartDeFi](https://smartdefi.com) / [PancakeSwap](https://pancakeswap.finance/swap?outputCurrency=0xF3c7CECF8cBC3066F9a87b310cEBE198d00479aC) / [UNISWAP](https://app.uniswap.org/)  and centralized exchanges including [CoinW](https://www.coinw.com/frontSpot/spottrade?symbol=1388) /  [MEXC](https://www.mexc.com/exchange/FEG\_USDT?\_from=search\_spot\_trade) / [GATE](https://www.gate.io/trade/FEG\_USDT) / [BitMart](https://www.bitmart.com/trade/en-US?symbol=FEG\_USDT) / [LATOKEN](https://latoken.com/exchange/FEG\_USDT) / [BTOK](https://d65535.com/FEGCHATCN) /  [BYDFY](https://www.bydfi.com/en/spot/feg\_usdt?mode=pro) / [StealthEX](https://stealthex.io/exchange/new/)&#x20;
+FEG 交易具有一套稳健的[代币经济](feg-tokenomics.md)机制，提供的灵活性可以随时适应项目的特定需求。\
+目前可以在去中心化交易所如 [SmartDeFi](https://smartdefi.com)、[PancakeSwap](https://pancakeswap.finance/swap?outputCurrency=0xF3c7CECF8cBC3066F9a87b310cEBE198d00479aC) 和 [UNISWAP](https://app.uniswap.org/) 上交易，以及在中心化交易所如 [CoinW](https://www.coinw.com/frontSpot/spottrade?symbol=1388)、[MEXC](https://www.mexc.com/exchange/FEG\_USDT?\_from=search\_spot\_trade)、[GATE](https://www.gate.io/trade/FEG\_USDT)、[BitMart](https://www.bitmart.com/trade/en-US?symbol=FEG\_USDT)、[LATOKEN](https://latoken.com/exchange/FEG\_USDT)、[BTOK](https://d65535.com/FEGCHATCN)、[BYDFY](https://www.bydfi.com/en/spot/feg\_usdt?mode=pro) 和 [StealthEX](https://stealthex.io/exchange/new/) 上进行交易。&#x20;
 
-### FEG contract address on ETH, BSC, & BASE
+### ETH、BSC 和 BASE 上的 FEG 合约地址
 
 ```
 0xF3c7CECF8cBC3066F9a87b310cEBE198d00479aC
 ```
 
-### History
+### 历史
 
-FEG was first deployed on [ETH](https://etherscan.io/address/0x389999216860AB8E0175387A0c90E5c52522C945) on January 31 2021, and[ BSC](https://bscscan.com/address/0xacfc95585d80ab62f67a14c566c1b7a49fe91167) on February 12 2021. It was basically one project, but the two tokens ran independently on their respective blockchains, varying in price with separate liquidity pools and market movements.\
-Later on FEG was re-launched on [ETH](https://etherscan.io/address/0xbededDf2eF49E87037c4fb2cA34d1FF3D3992A11) & [BSC](https://bscscan.com/address/0xbededDf2eF49E87037c4fb2cA34d1FF3D3992A11) from the inhouse built [SmartDeFi ](broken-reference)Token Launchpad in March of 2023.\
-Lastly, on May 27 2024 FEG upgraded to the latest version of SmartDeFi to benefit from all the newly introduced features and to switch to a SINGULAR supply across ETH, BSC and BASE chains, with more EVM blockchains to follow.
+FEG 于 2021 年 1 月 31 日首次在 [ETH](https://etherscan.io/address/0x389999216860AB8E0175387A0c90E5c52522C945) 上部署，并于 2021 年 2 月 12 日在 [BSC](https://bscscan.com/address/0xacfc95585d80ab62f67a14c566c1b7a49fe91167) 上部署。\
+起初它是一个项目，但两个代币分别在各自的区块链上独立运行，价格各异，且拥有各自的流动性池和市场动态。\
+2023 年 3 月，FEG 在内部开发的 [SmartDeFi ](broken-reference) 代币启动平台上重新发布于 [ETH](https://etherscan.io/address/0xbededDf2eF49E87037c4fb2cA34d1FF3D3992A11) 和 [BSC](https://bscscan.com/address/0xbededDf2eF49E87037c4fb2cA34d1FF3D3992A11) 上。\
+最后，在 2024 年 5 月 27 日，FEG 升级至最新版本的 SmartDeFi，以利用所有新功能，并转为 ETH、BSC 和 BASE 链之间的单一供应，未来将扩展至更多 EVM 区块链。
+
