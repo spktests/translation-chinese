@@ -1,22 +1,22 @@
-# 💲 Platform fees
+# 💲 平台费用
 
-The SmartDeFi platform was built to have as many features as possible, for a decentralized ecosystem, but at the same time we wanted it to be as near to free-to-use as possible.
+SmartDeFi 平台旨在为去中心化生态系统提供尽可能多的功能，同时我们希望它尽可能接近免费使用。
 
-As such the platform is crammed with features and systems all gathered in one easy to use package, that you will not find anywhere else, all for little to no cost at all for DEVs and investors alike.
+因此，该平台集成了各种功能和系统，整合成一个易于使用的软件包，您在其他地方找不到类似的解决方案，且几乎没有成本，不论是对于开发者还是投资者。
 
-### Platform fees for DEVs&#x20;
+### 开发者平台费用
 
-* Launching a SmartDeFi projects is completely FREE, you only need to cover the chain gas fees.&#x20;
-* For LGE (Presales), a minimum of 30% from raised funds will buy and pair FEG in secondary LP with vesting from 35 days up to 5 years, depending on your chosen LP claims settings.
-* Launching SmartBridge (for your tokens is FREE, you only need to cover the chain gas fees.
-* Enabling the Staking system costs 100$ worth of FEG, which will be burned.&#x20;
-* Activating the Fee Converter costs 100$ worth of FEG, which will be burned.&#x20;
+* 启动 SmartDeFi 项目是完全免费的，您只需承担链上的 gas 费用。
+* 对于 LGE（预售），筹集的资金中至少 30% 将用于购买并配对 FEG，并在次级 LP 中进行锁仓，锁仓期从 35 天到 5 年不等，具体取决于您选择的 LP 提取设置。
+* 启动 SmartBridge（适用于您的代币）是免费的，您只需承担链上的 gas 费用。
+* 启用 Staking 系统的费用为 100 美元的 FEG，该费用将被销毁。
+* 激活费用转换器的费用为 100 美元的 FEG，该费用也将被销毁。
 
-### Platform fees for users&#x20;
+### 用户平台费用
 
-* 0.5% of tokens when adding to staking&#x20;
-* 1$ in natives when using SmartBridge&#x20;
-* 0.5% protocol fee on buys and sells; this fee can be lower under certain conditions, if project X has:\
-  \- LP smaller but above 25% of FEG's LP, their tax gets lowered to 0.4% \
-  \- more LP than FEG does, their protocol fee will be lowered to 0.3% \
-  \- if project uses FEG as backing, then their protocol fee is lowered to 0.1%
+* 添加到 Staking 时的代币费用为 0.5%。
+* 使用 SmartBridge 时的费用为 1 美元的原生代币。
+* 购买和出售的协议费用为 0.5%；在某些条件下，该费用可以降低，如果项目 X 满足以下条件：
+  \- LP 小于但高于 FEG 的 LP 的 25%，其税费将降低至 0.4%。
+  \- LP 超过 FEG 的 LP，其协议费用将降低至 0.3%。
+  \- 如果项目使用 FEG 作为支持资产，其协议费用将降低至 0.1%。

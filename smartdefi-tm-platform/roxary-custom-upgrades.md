@@ -1,21 +1,21 @@
 ---
-description: Development Advisory
+description: 开发咨询
 ---
 
-# 📜 ROXary Custom Upgrades
+# 📜 ROXary 定制升级
 
-### FEG's lead developer, [FEGrox](https://twitter.com/lifeisdefi?lang=en), announces his new ROXary service!
+### FEG 的首席开发者 [FEGrox](https://twitter.com/lifeisdefi?lang=en) 宣布推出他的全新 ROXary 服务！
 
-With the release of SmartDeFi staking on the horizon and the ability to offer FEG stakers infinite reward types, I have started to utilize that ability and find ways to generate more reward types.
+随着 SmartDeFi 质押即将上线，并可以为 FEG 质押者提供无限奖励类型的能力，我已经开始利用这种能力并寻找生成更多奖励类型的方法。
 
-One of the best things I have to offer is my unique ability to work with coding and give direction. So I put out some feelers to see if any up-and-coming projects need the service of a technical advisor in exchange for tokens we can allocate as rewards to FEG stakers.
+我能提供的最佳服务之一是我的独特编码和指导能力。所以我发出了试探，看看是否有任何新兴项目需要技术顾问服务，以换取我们可以分配给 FEG 质押者的奖励代币。
 
-Now, let's get more detailed as to what that means.&#x20;
+现在，让我们更详细地解释这意味着什么。&#x20;
 
-**Advisory does not mean the FEG project is affiliated, nor am I on the team of any/all advised projects; it** only means that I agreed to help advise on future codebase and utility ideas. I cannot guarantee any success in any project or protocol. My advisory only provides advice on code and planning. Unless it is strictly said otherwise, an advisory position is just as it sounds.
+**顾问角色并不意味着该项目与 FEG 项目有任何关联，也不代表我在任何顾问项目的团队中；它** 仅意味着我同意在未来的代码库和实用性想法上提供建议。我不能保证任何项目或协议的成功。我的顾问角色仅提供代码和规划方面的建议。除非明确说明，否则顾问职位仅为字面意义上的“顾问”。
 
-I am focused on developing ways to give FEG stakers more reward options and help move the industry forward. One of the best ways to do that is to allow others to benefit from my advisory services. All proceeds from this service will be allocated to FEG stakers, and I am building this decentralized service so FEG stakers can have a voice on who is allowed to benefit from this service.
+我专注于开发为 FEG 质押者提供更多奖励选项的方式，并推动行业前进。实现这一目标的最佳途径之一是让其他项目从我的顾问服务中受益。此服务的所有收益都将分配给 FEG 质押者，而且我正在构建这个去中心化服务，以便 FEG 质押者能够对谁可以从这项服务中受益有发言权。
 
-I hope that makes it more straightforward as we advance.
+希望随着我们的进步，这一切能更明朗化。
 
 \~\~ROX\

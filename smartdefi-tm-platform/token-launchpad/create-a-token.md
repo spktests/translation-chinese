@@ -1,85 +1,89 @@
-# 〽️ Create a Token
+---
+description: 〽️ 创建代币
+---
 
-### SmartDeFi Empowers Your Vision
+# 〽️ 创建代币
 
-For project owners navigating the complexities of launching a cryptocurrency project, FEG's SmartDeFi Launchpad emerges as a game-changing platform designed to empower project owners and bring their crypto visions to life without coding expertise.
+### SmartDeFi 赋能您的愿景
 
-SmartDeFi Launchpad offers a comprehensive toolkit to create, manage, and evolve your crypto project. With SDL, you can turn your vision into a successful crypto venture.\
-Creating a new SmartDeFi crypto project can be done in a few clicks, and here's how you can do it.
+对于那些在加密项目启动过程中面临复杂性挑战的项目所有者，FEG 的 SmartDeFi Launchpad 平台凭借其开创性技术为项目所有者提供支持，帮助他们实现加密愿景，无需编程知识。
+
+SmartDeFi Launchpad 提供了一整套工具来创建、管理和发展您的加密项目。通过 SDL，您可以将愿景转化为成功的加密项目。\
+创建一个新的 SmartDeFi 加密项目仅需几个点击，以下是操作方法。
 
 <figure><img src="../../.gitbook/assets/Screenshot_32.png" alt=""><figcaption></figcaption></figure>
 
-### Creating Your Token with Ease
+### 轻松创建您的代币
 
-Creating your token becomes a straightforward process with simple visit to [SmartDeFi.com](https://smartdefi.com)\
+只需访问 [SmartDeFi.com](https://smartde.fi)，创建代币变得简单快捷。\
 \
-The "Launch SD" button in the left menu unlocks the "Create SmartDeFi Token" window, where you can mint and customize your token, all in one simple window.&#x20;
+左侧菜单中的“Launch SD”按钮会打开“创建 SmartDeFi 代币”窗口，您可以在一个简单的窗口中铸造并自定义您的代币。&#x20;
 
 <figure><img src="../../.gitbook/assets/create SD main.jpg" alt=""><figcaption></figcaption></figure>
 
-Tailor your project with various parameters, offering unparalleled flexibility for your unique needs.\
-The token creation menu offers you control over options such as:\
-\- **Token name, for** example: Bitcoin (only use letters/numbers).\
-\- **Token symbol**, for example: BTC.\
-\- **Supply** of your token, up to a maximum of 5 quintillion.\
-\- **Backing** tax will inject funds into your asset backing pool with every trade.\
-\- **Backing asset:** Address of desired coin/token for backing; by default, it will input **wBNB/wETH**.
+通过各种参数定制您的项目，为您的独特需求提供无与伦比的灵活性。\
+代币创建菜单提供以下选项的控制：\
+\- **代币名称**，例如：Bitcoin（仅使用字母/数字）。\
+\- **代币符号**，例如：BTC。\
+\- **代币供应量**，最多可达 5 quintillion。\
+\- **资产支持税**，将通过每次交易注入资产支持池。\
+\- **资产支持币种**：选择支持的币种或代币地址，默认为 **wBNB/wETH**。
 
 {% hint style="warning" %}
-**Note: The SmartDeFi protocol works best with 1e18 decimals types of assets used for asset backing but you can choose assets with less decimals.**&#x20;
+**注意：SmartDeFi 协议在资产支持中使用 1e18 小数类型的资产效果最佳，但您也可以选择小数位较少的资产。**&#x20;
 
-**If you intend to launch LGE, the amount of decimals in assets chosen for asset backing will determine if LGE participants get a share of asset backing during Claim Shares or not.**&#x20;
+**如果您打算启动 LGE，资产支持中所选资产的小数位数将决定 LGE 参与者在申领股份时是否可以获得资产支持。**&#x20;
 
-**Assets from asset backing with less than 1e15 decimals will likely not be distributed during LGE Claim Share events (LGE participants would still get the liquidity shares as intended). The tokens with asset backing that has less than 15 decimals can still be utilized for trading, for SmartLoans,  Burn for Backing or other SmartDeFi functionality. Only LGE side of things will be impacted by the choice of the assets for asset backing with less than 15 decimals.**
+**在 LGE 申领股份活动中，资产小数位少于 1e15 的资产支持可能无法分发（LGE 参与者仍将获得预期的流动性份额）。具有少于 15 位小数的资产支持的代币仍然可以用于交易、SmartLoans、销毁支持等 SmartDeFi 功能，仅影响 LGE 部分。**
 {% endhint %}
 
 \
-\- **Burn tax:** if you'd like to burn tokens automatically while trading\
-\- **Liquidity** tax: this will inject BNB/ETH and your SD token into your liquidity pool, thus helping to strengthen the depth of your liquidity.\
-\- **Growth** tax: SD tokens will be sent to the SD-owner wallet with each trade, and teams can use these funds for marketing, team payment, CEX listings, and whatever they need to run the project.\
-\- **Staking** tax: sends SD-tokens rewards to those using the SmartDeFi staking platform.\
-\- **Reflections** tax: to reward holders frictionlessly with small amounts of SD-tokens on every trade.\
-\- **Different taxation:** Project creators can set different tax levels for buys and sales.\
-\-- Note: "**Tax on transfers**" will use by default the same tax settings from buys.\
-\-- **Limits**: All taxes combined cannot be more than 50% for buying and 50% for selling.
+\- **销毁税**：在交易时自动销毁代币。\
+\- **流动性税**：这将把 BNB/ETH 和 SD 代币注入您的流动性池，帮助增强流动性深度。\
+\- **增长税**：每次交易中 SD 代币将被发送至 SD 所有者钱包，团队可以使用这些资金进行市场推广、团队支付、CEX 上市等。\
+\- **质押税**：将 SD 代币奖励发送给使用 SmartDeFi 质押平台的用户。\
+\- **反射税**：每次交易中以小额 SD 代币奖励持有者。\
+\- **不同的税级**：项目创建者可以为买入和卖出设置不同的税级。\
+\-- 注意：“**转账税**”将默认使用买入的税设置。\
+\-- **税收限制**：所有税的总和不能超过买入和卖出的 50%。
 
 {% hint style="success" %}
-**The Protocol Fee** is a small tax of 0.5% that the DEV team will use to continue building, updating and growing the ecosystem and rewarding users. \
-So if you set your custom taxes to 5%, total will be 5.5% with protocol fee.
+**协议费** 是一个小额 0.5% 的税收，开发团队将用于继续构建、更新和发展生态系统并奖励用户。 \
+如果您将自定义税设置为 5%，总税率将为 5.5%，包括协议费。
 
-**Under certain conditions the Protocol fee of 0.5% can be reduced up to 0.1% based off the liquidity size or asset backing. See more details** [**here**](../platform-fees.md)
+**在某些条件下，协议费的 0.5% 可根据流动性规模或资产支持减少至 0.1%。更多详情请查看** [**此处**](../platform-fees.md)
 {% endhint %}
 
-Once satisfied with the chosen settings, a simple click on the "Create Token" button initiates the process. Approval from the wallet app and covering blockchain gas fees for the transaction completes the token creation journey.
+一旦对所选设置满意，点击“创建代币”按钮即可开始流程。完成钱包应用的授权并支付区块链交易费，代币创建之旅即告完成。
 
-Congratulations, you're now the happy owner of a crypto project, and at this point, you'll notice you have received the entire supply of this new token in your wallet.
+恭喜，您现在成为了加密项目的骄傲拥有者，您会注意到您已在钱包中收到了新代币的全部供应量。
 
-### Options for Liquidity: Your Choice, Your Launch
+### 流动性选项：您的选择，您的启动方式
 
-The next step is to launch your project publicly, and to do that, SmartDeFi Launchpad gives project owners the flexibility to choose between a [public LEAP fundraising](presale-launch/lge-for-devs.md) to gather liquidity or to launch first and manually [add liquidity later](private-liquidity-launch.md) from the owner's wallet.
+下一步是公开启动您的项目，为此 SmartDeFi Launchpad 提供了灵活的选择，允许项目所有者选择[公开 LEAP 筹资](presale-launch/lge-for-devs.md) 以筹集流动性，或先行启动并手动从所有者钱包[稍后添加流动性](private-liquidity-launch.md)。
 
-If you're not using a presale launch, manually adding liquidity is essential for your token to be publicly traded on PancakeSwap or Uniswap.
+如果您不使用预售启动，手动添加流动性对于您的代币在 PancakeSwap 或 Uniswap 上公开交易是必不可少的。
 
-### Post Creation Menu
+### 创建后菜单
 
 <figure><img src="../../.gitbook/assets/standard empty dashboard.jpg" alt=""><figcaption></figcaption></figure>
 
-Post-token creation, project owners gain access to a comprehensive dashboard equipped with various settings related to token liquidity, presale launch, adding asset backing, enabling staking, editing taxes, adding project logo, token information, social links and so on.&#x20;
+创建代币后，项目所有者将获得一个功能全面的仪表板，可以管理与代币流动性、预售启动、添加资产支持、启用质押、编辑税收、添加项目徽标、代币信息、社交链接等相关的各种设置。&#x20;
 
-### • **Adding Logo and Description**
+### • **添加徽标和描述**
 
 {% embed url="https://www.youtube.com/watch?v=5qpH_HQ0IOo" %}
 
-### • **Add Asset Backing**
+### • **添加资产支持**
 
-If you have funds available in your wallet, you can manually inject funds into the asset-backing pool for your project at any time.\
-If not, leave it as is, and the pool will slowly fill up automatically due to the backing tax you set earlier in the token creation window.
+如果您的钱包中有可用资金，可以随时手动将资金注入项目的资产支持池。\
+如果没有可用资金，请保留原状，池将通过您在代币创建窗口中设置的资产支持税缓慢自动填充。
 
-### • **Edit Taxes**&#x20;
+### • **编辑税收**&#x20;
 
-If you forgot to create an asset backing tax earlier, during token creation, then no worries, you can edit any of your project's taxes even after token creation, as per your needs, using the "Edit tax" button. \
-\- Note: You cannot change taxes on the fly; from one minute to another, a delay is designed to protect investors. You can change taxes however many times you wish in the coming years, but you cannot activate these newly edited taxes for the next three days after you've suggested the new taxes. Return to this menu after the timer runs out and activate the new taxes. Otherwise, your project will keep using the old taxes.\
+如果您在代币创建时忘记设置资产支持税，不必担心，您可以在创建代币后根据需要使用“编辑税收”按钮编辑项目的任何税收。 \
+\- 注意：不能立即更改税收；从操作到生效之间有延迟，旨在保护投资者。您可以在未来几年内随意更改税收，但在建议新的税收后不能在三天内激活这些新税收。请在计时器到期后返回此菜单激活新税收，否则项目将继续使用旧税收。\
 \
-Using this "edit tax" option will display a public warning on your token's page in FEGex to notify investors of your action to change the project's tokenomics.\
+使用此“编辑税收”选项将在 FEGex 的代币页面上显示一个公开警告，通知投资者您已更改项目的代币经济学。\
 \
-You will also gain access to an advanced tool called [SDscan](sdscan-tool/), which gives you unprecedented control over the inner workings of your new token project, allowing you to read the info and modify your token (within limits) in the token's smart contract.
+您还将获得一个称为 [SDscan](sdscan-tool/) 的高级工具，允许您在一定限制范围内对新代币项目进行内部控制，可以查看信息并修改代币的智能合约。

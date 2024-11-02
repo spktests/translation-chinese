@@ -1,28 +1,28 @@
-# 💵 Private Liquidity Launch
+# 💵 私人流动性启动
 
 {% embed url="https://www.youtube.com/watch?v=UqGPB2zKrro" %}
 
-After you've created the new token project, you'll see this new dashboard layout, which has several settings.
+在创建了新的代币项目后，您将看到此新的仪表板布局，其中包含多个设置。
 
 <figure><img src="../../.gitbook/assets/deploy swap and add backing.jpg" alt=""><figcaption></figcaption></figure>
 
-### **Deploy Swap**
+### **部署 Swap**
 
-Suppose you're not using a Presale type launch. In that case, to launch your token and have it publicly traded on Pancakeswap or Uniswap, you'll need to add liquidity to it from your wallet manually.
+假设您没有选择预售类型的启动模式。在这种情况下，如果您希望代币在 Pancakeswap 或 Uniswap 上进行公开交易，则需要从钱包中手动为其添加流动性。
 
-Click the "Deploy swap" button, add the desired number of SD tokens and BNB/ETH to create your liquidity pool on the new window. \
-A large liquidity pool would be best, to avoid a significant price impact when people start trading your new tokens.
+点击“部署 Swap”按钮，在新窗口中添加所需数量的 SD 代币和 BNB/ETH 以创建您的流动性池。 \
+建议创建一个较大的流动性池，以避免在用户开始交易您的新代币时产生显著的价格波动。
 
 {% hint style="success" %}
-Note that the Token to BNB/ETH ratio you choose now is essential, as it will decide the selling price with which your token will launch.
+请注意，您选择的代币与 BNB/ETH 的比例非常重要，它将决定代币发布时的初始出售价格。
 {% endhint %}
 
-If you're happy with the numbers, click "Approve" and accept the wallet app requests.\
-Once the transaction goes through, the button text will change and say, "Deploy Swap." so click it and accept wallet requests again.\
+如果您对输入的数值满意，请点击“批准”并接受钱包应用的请求。\
+一旦交易完成，按钮文本将变更为“部署 Swap”，再次点击并接受钱包请求。\
 \
-You've now moved out the set amount of SD tokens and BNB/ETH from your wallet and placed them into a Pancakeswap / Uniswap Liquidity Pool contract; at this point, your new project is ready to trade publicly.
+您已将设置好的 SD 代币和 BNB/ETH 数量从钱包中转出，并将其放入 Pancakeswap / Uniswap 的流动性池合约中；此时，您的新项目已准备好进行公开交易。
 
-### Add Asset Backing
+### 添加资产支持
 
-If you wish to manually add funds into the asset backing pool for your token, you can do so at any time using this "add backing" menu.\
-Simply click the button, add your desired number of tokens/coins for asset backing, then approve this operation and then add the backing once the button's text changes to "add backing".
+如果您希望为代币的资产支持池手动添加资金，您可以随时通过此“添加支持”菜单来进行操作。\
+只需点击按钮，添加您希望的代币/币数量以进行资产支持，然后批准此操作，等待按钮文本变为“添加支持”后，再点击完成添加。

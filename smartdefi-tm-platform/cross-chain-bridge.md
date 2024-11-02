@@ -1,50 +1,54 @@
-# ⛓️ Cross-chain Bridge
+# ⛓️ 跨链桥
 
 <figure><img src="../.gitbook/assets/Screenshot_14 (1).png" alt=""><figcaption></figcaption></figure>
 
-Introducing the SmartDeFi On-Chain Cross-Chain Bridge, a revolutionary feature available for all projects launched from the SmartDeFi Token Launchpad.&#x20;
+介绍 SmartDeFi 链上跨链桥，这是一项为所有从 SmartDeFi Token Launchpad 上推出的项目提供的革命性功能。
 
-The Bridge opens up a world of possibilities with seamless interoperability between different EVM blockchains entirely on the chain, where users can now enjoy unparalleled flexibility, arbitrage and accessibility when managing their tokens.&#x20;
+该跨链桥通过链上无缝的不同 EVM 区块链之间的互操作性打开了无限可能，使用户在管理其代币时享有前所未有的灵活性、套利机会和可访问性。
 
-Join us on this exciting journey towards a more interconnected and decentralized ecosystem.
+加入我们，共同迈向更加互联和去中心化的生态系统。
 
-### How It Works
+### 工作原理
 
 <figure><img src="../.gitbook/assets/bridge 1 FEG base to bnb.jpg" alt=""><figcaption></figcaption></figure>
 
-Head over to [SmartDeFi.com](https://smartdefi.com), connect your wallet, pick the token you wish to bridge and then click on the "Bridge" tab.&#x20;
+前往 [SmartDeFi.com](https://smartdefi.com)，连接您的钱包，选择您希望跨链的代币，然后点击“Bridge”标签。
 
-At this point you will be given the opportunity to choose which chain you wish to bridge to, the next step being that you need to input the amount of tokens to bridge from chain X to chain Y. Lastly You will need to click on the "Approve" button and then on "Bridge" button in order to perform the actual bridging transaction.
+此时，您可以选择您希望跨链的目标链。接下来，输入您希望从链 X 到链 Y 的代币数量。最后，点击“Approve”按钮，然后点击“Bridge”按钮以执行实际的跨链交易。
 
-Now all that is left to do is switch your wallet's network to the chain where you sent the tokens to, then make sure you're on "Bridge" tab and on "Withdrawals" tab. Check to make sure all the information shown is correct and then click the "Withdraw" button.&#x20;
+接下来切换您的钱包网络到您发送代币的链上，然后确保在“Bridge”标签的“Withdrawals”标签下操作。确认显示的信息正确后，点击“Withdraw”按钮。
 
 {% hint style="success" %}
-Remember you need native coins for gas fees on both the origin and destination chains.
+请记住，您需要在源链和目标链上都有足够的原生代币用于支付 gas 费。
 
-Gas fees for bridge use are higher than normal transactions !
+跨链桥的交易费用比普通交易更高！
 {% endhint %}
 
-And that's it, you've bridged your tokens to another chain in a few clicks, simple and easy.
+就这样，您可以通过几次点击将代币跨链到另一条链上，简单且方便。
 
 <figure><img src="../.gitbook/assets/withdraw bridge 1FEG.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-The Bridge is limited to one bridging instance every 15 minutes&#x20;
+跨链桥每 15 分钟只能进行一次跨链操作。
 
-The user has up to 30 days to claim assets from the SmartBridge&#x20;
+用户有 30 天的时间从 SmartBridge 领取资产。
 
-Unclaimed assets will be forfeit forever
+未领取的资产将被永久丢失。
 {% endhint %}
 
-### FAQ
+### 常见问题解答
 
-1. **Who Can Initiate Bridge Creation?**
-   * Only the owner of the SmartDeFi token's smart contract can initiate bridge creation. This ensures authorized access and owner wallet verification across chains.
-2. **Can Token Supply Be Distributed Across Multiple Chains?**
-   * Yes, the total supply can be distributed across multiple chains by allocating it to the bridge. Tokens from the originating chain's supply can then be bridged to new chains, maintaining the integrity of the overall supply.
-3. **How Does Supply Transfer Work Across Chains?**
-   * Users deposit tokens into the bridge, locking them on the current chain and selecting the destination chain for withdrawal. This process releases the tokens into circulation on the selected chain.
-4. **Can Outside Contracts Interact with the Bridge?**
-   * Only verified source addresses on verified chains can interact with the bridge beyond user functions. This security measure ensures controlled access to bridge functionalities.
-5. **What does it cost?**
-   * The bridge has a 1$ flat fee but your operation will cost more because the Bridge requires multiple contract executions on 2 chains at the same time, which means extra costs in gas fees; for example a BNB deposit and BASE withdrawal bridge could cost 9$ in all, but these costs will vary for you depending on network usage at the time
+1. **谁可以启动跨链桥的创建？**
+   * 只有 SmartDeFi 代币智能合约的所有者可以启动跨链桥的创建。这确保了跨链的授权访问以及所有者钱包的验证。
+
+2. **代币供应可以在多个链上分配吗？**
+   * 是的，可以通过将代币分配到跨链桥，将总供应分配到多个链上。用户可以从原始链的供应中将代币跨链到新的链上，同时保持总供应的完整性。
+
+3. **跨链的供应转移如何工作？**
+   * 用户将代币存入跨链桥，在当前链上锁定代币，并选择要提取的目标链。此过程会将代币释放到所选链的流通中。
+
+4. **外部合约能与跨链桥交互吗？**
+   * 只有经过验证的源地址和链上的经过验证的合约可以与跨链桥交互（除了用户功能以外）。该安全措施确保了对跨链桥功能的控制访问。
+
+5. **费用是多少？**
+   * 跨链桥的基本费用为 1 美元，但您的操作成本会更高，因为跨链桥需要在两个链上同时执行多个合约操作，因此会产生额外的 gas 费用。例如，一笔 BNB 存款和 BASE 提款的跨链交易可能总共花费 9 美元，但这些费用将根据网络当时的使用情况有所不同。

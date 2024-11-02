@@ -1,29 +1,31 @@
 ---
-description: 🚀 The Future of SmartDeFi Presales is Tokenless!
+description: 🚀 SmartDeFi 预售的未来是无代币化的！
 ---
 
-# 💰 Presale Launch
+# 💰 预售启动
 
 <figure><img src="../../../.gitbook/assets/Screenshot_15 (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-<mark style="color:orange;">This documentation is under development.</mark>
+<mark style="color:orange;">本文件正在开发中。</mark>
 {% endhint %}
 
-Introducing SmartDeFi's Game-Changing Tokenless Presale Technology:
+介绍 SmartDeFi 的革命性无代币化预售技术：
 
-1. Tokenless Presales: \
-   \- Innovative Approach: For the first time, SmartDeFi introduces presales that are 100% tokenless.    \
-   \- Legal Compliance: Aligns with legal frameworks by avoiding the regulations and risks associated with traditional token-based presales.    \
-   \- Liquidity Generation Event: Participants join a Liquidity Generation Event, acquiring a vested share of the generated LP, thus eliminating common problems in current presale models.
-2. Benefits of SmartDeFi's Method:   \
-   \- Vested LP Interests: Presalers receive vested LP shares, promoting a stable token ecosystem and security for all token holders.    \
-   \- Eliminate Presale Selling and Dumps: No need to sell tokens to realize profits. Profits are claimed from unlocked vested LP, supporting the project rather than harming it.    \
-   \- Developer Rewards Reimagined: Developers receive a share in vested LP, aligning long-term interests without selling tokens.
-3. Innovative Pairing Options:    \
-   \- Automatic Pairing: secondary LP is automatically paired with FEG/Your\_SD, facilitating dynamic market arbitrage and volume opportunities.    \
-   \- Dual Pool Dynamics: Enhances volume arbitrage and allows FEG stakers to seamlessly convert SD tokens to FEG.    \
-   \- Market Movements: Each presale closure positively impacts FEG price and creates arbitrage opportunities, benefiting the entire protocol.
-4. SmartDeFi Launchpad:    \
-   \- Revolutionary Platform: Setting a new industry standard where investment strategies are as smart as the technology.
+1. 无代币化预售：\
+   \- **创新方式**：SmartDeFi 首次引入 100% 无代币化的预售。\
+   \- **合规性**：通过避免传统代币预售相关的法律法规和风险，确保合法合规。\
+   \- **流动性生成活动**：参与者加入流动性生成活动，获得生成的流动性代币的份额，从而消除了当前预售模式中的常见问题。
 
+2. SmartDeFi 方法的优势：\
+   \- **流动性份额锁仓**：预售者收到锁仓的流动性份额，促进了稳定的代币生态系统，并保障了所有代币持有者的安全。\
+   \- **消除预售抛售和倾销**：无需通过出售代币实现利润。利润来自已解锁的流动性份额，有助于支持项目而不是伤害它。\
+   \- **重新构想的开发者奖励**：开发者获得锁仓的流动性份额，从而使长期利益保持一致，而无需出售代币。
+
+3. 创新的配对选项：\
+   \- **自动配对**：二级流动性自动配对 FEG/Your\_SD，促进动态市场套利和交易量机会。\
+   \- **双池动态**：增强交易量套利，并允许 FEG 质押者无缝地将 SD 代币转换为 FEG。\
+   \- **市场动向**：每次预售结束都会对 FEG 价格产生积极影响并创造套利机会，从而使整个协议受益。
+
+4. SmartDeFi Launchpad：\
+   \- **革命性平台**：树立新的行业标准，使投资策略与技术同样智能。
