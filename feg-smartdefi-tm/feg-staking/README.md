@@ -1,67 +1,67 @@
-# 💰 FEG Staking
+# 💰 FEG 质押
 
 <figure><img src="../../.gitbook/assets/Screenshot_8 (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
-FEG Staking is currently LIVE!
+FEG 质押现已上线！
 {% endhint %}
 
-### Unparalleled Passive Income Possibilities
+### 无与伦比的被动收入机会
 
-FEG Staking is a protocol that allows FEG token holders to stake their tokens and earn rewards from the entire FEG ecosystem on that chain, with the potential for significant gains over time.
+FEG 质押协议允许 FEG 代币持有者质押其代币，并从所在链上的整个 FEG 生态系统中获得奖励，长期内有望实现显著收益。
 
-### Features of staking contract
+### 质押合约的功能
 
-<table data-card-size="large" data-column-title-hidden data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td>Zero fees</td><td>No deposit or withdrawal fees for staking your FEG, it's free</td><td></td></tr><tr><td>No lock-in periods</td><td>FEG allows you to stake and unstake at anytime, total freedom</td><td></td></tr><tr><td>Automatic compounding</td><td>Your rewards get auto distributed &#x26; compounded to gain even more over time</td><td></td></tr><tr><td>Upgradeable</td><td>The contract requires no action from users when staking contract gets upgraded</td><td></td></tr></tbody></table>
+<table data-card-size="large" data-column-title-hidden data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td>零费用</td><td>质押您的 FEG 无需任何存取费用，完全免费</td><td></td></tr><tr><td>无锁定期</td><td>FEG 允许您随时质押和取消质押，完全自由</td><td></td></tr><tr><td>自动复利</td><td>您的奖励将自动分配并复利，长期内收益更高</td><td></td></tr><tr><td>可升级</td><td>当质押合约升级时，无需用户采取任何行动</td><td></td></tr></tbody></table>
 
-### **Staking rewards sources**
+### **质押奖励来源**
 
-FEG Token stakers will earn rewards exclusively in FEG Token until other platforms are released, at which point they may receive native assets for fees.
+FEG 代币质押者将专门以 FEG 代币形式获得奖励，直到其他平台推出，届时他们可能会以本地资产的形式获得费用奖励。
 
-### **What is FST**
+### **什么是 FST**
 
 ```
 0xD16092066483F6a2c043d50E3EeE26e2131364Fc
 ```
 
-After staking, your FEG tokens will be deposited into the staking contract, and you will receive "FEG Staking" (FST) shares in return. These shares represent your ownership in the staking pool. Think of FST as a receipt from the system confirming your successful stake. You must present this receipt to the system to unstake your tokens.
+质押后，您的 FEG 代币将存入质押合约，您将获得“FEG 质押”（FST）份额作为回报。这些份额代表您在质押池中的所有权。可以将 FST 视为系统给您的收据，确认您的质押已成功。您需要向系统出示该收据才能取消质押。
 
-* FST is not a 1:1 ratio
-* FST number does not increase with rewards
-* Total FST / Total FEG = Ratio
-* It is impossible to transfer FST to another wallet
+* FST 不是 1:1 比例
+* FST 数量不会随着奖励增加
+* 总 FST / 总 FEG = 比例
+* 无法将 FST 转移到其他钱包
 
-### Non-FEG Rewards (future)
+### 非 FEG 奖励（未来）
 
-Non-FEG rewards refer to wBNB/wETH rewards earned from FEG's Non-custodial P2P trading platform, "FTW," and fees from the custom-built Aggregator.
+非 FEG 奖励指的是通过 FEG 的非托管点对点交易平台“FTW”赚取的 wBNB/wETH 奖励以及由定制聚合器收取的费用。
 
-### Reward Distribution (future)
+### 奖励分配（未来）
 
-Non-FEG rewards will be given in rounds and subject to a certain accumulation threshold.\
+非 FEG 奖励将按轮次分配，并须达到一定的累积阈值。\
 \
-Developers can modify the accumulation threshold for each of the rewards.\
+开发人员可以为每种奖励调整累积阈值。\
 \
-For example, if 1 wBNB is the threshold, rewards disburse when the reward pool is above 1 wBNB.
+例如，如果阈值为 1 wBNB，则当奖励池超过 1 wBNB 时奖励才会发放。
 
 {% hint style="info" %}
-Unstaking or adding to your stake within 30 days after your initial staking will result in a 50% loss of your non-FEG rewards.\
+在初次质押后的 30 天内取消质押或增加质押将导致您 50% 的非 FEG 奖励损失。\
 \
-The forfeited rewards will be redistributed among the other stakeholders.
+被没收的奖励将重新分配给其他质押者。
 {% endhint %}
 
-### Optional FEG "Sacrifice"
+### 可选的 FEG “牺牲”功能
 
-The new staking contract introduced the sacrifice feature at the community's request. It allows those who wish to contribute to burn efforts to reduce the circulating token supply.\
+根据社区的要求，新质押合约引入了牺牲功能。此功能允许希望支持燃烧努力的用户减少流通中的代币供应。\
 \
-When unstaking, Stakers can voluntarily burn a specified percentage of their FEG rewards, permanently removing these tokens from circulation.\
+在取消质押时，质押者可以自愿燃烧其 FEG 奖励的特定百分比，将这些代币永久地移出流通。\
 \
-To activate this feature, specify the percentage you wish to sacrifice.
+要激活此功能，请指定您想要牺牲的百分比。
 
 {% hint style="success" %}
-At any point before unstaking, you can turn off the sacrifice by setting it to 0%
+在取消质押之前的任何时候，您可以将牺牲比例设为 0% 以关闭该功能
 {% endhint %}
 
-### Platform Expansion
+### 平台扩展
 
-* Currently available on Ethereum, BNB and BASE blockchains
-* The team plans to expand the sources of income for FEG investors by expanding FEG and SmartDeFi to several new EVM-based blockchains.
+* 目前适用于以太坊、BNB 和 BASE 区块链
+* 团队计划将 FEG 和 SmartDeFi 扩展到多个新的基于 EVM 的区块链，以扩大 FEG 投资者的收入来源。
