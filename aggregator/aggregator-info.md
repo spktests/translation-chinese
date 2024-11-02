@@ -1,26 +1,21 @@
-# 🔄 Aggregator Info
+# 🔄 聚合器信息
 
 {% hint style="warning" %}
-The info on this page is deprecated; updates will follow
+此页面的信息已过时；更新内容将会发布
 {% endhint %}
 
-### **Cost-Effective Trading**
+### **经济高效的交易**
 
-Welcome to the Aggregator, a revolutionary tool developed by FEG that empowers you to trade tokens on Decentralized Exchanges (DEXs) at the absolute best price. Say goodbye to high gas fees, excessive trading costs, and frustrating experiences. The Aggregator is here to transform your token trading journey, making it more convenient, efficient, and cost-effective.
+欢迎使用聚合器，这是 FEG 开发的革命性工具，能够让您以绝对最优的价格在去中心化交易所（DEX）上进行代币交易。告别高昂的燃气费、过多的交易成本和令人沮丧的体验。聚合器将彻底改变您的代币交易体验，使其更加便捷、高效且经济实惠。
 
-### **A Powerhouse of DEX Optimization**
+### **聚合器的工作原理**
 
-The Aggregator's brilliance lies in its ability to seamlessly aggregate prices from multiple DEXs, including those forked from Uniswap and Pancakeswap, the predominant DEX ecosystems. This meticulous price comparison ensures you always get the lowest possible price for your trades.
+聚合器的设计宗旨是为用户提供最优的交易价格。它会比较多个 DEX 平台上的价格和费用，为您找到最低成本的交易路径。通过智能合约，聚合器会自动选择最佳路径，以确保您获得最具成本效益的交易结果。
 
-### **Beacon of Efficiency and Affordability**
+* **降低成本**：聚合器会自动选择费用最低的交易路径，帮助用户节省交易成本。
+* **最佳价格**：聚合器会从不同的 DEX 中获取价格，确保您以最优价格买入或卖出代币。
+* **用户友好的界面**：聚合器操作简单，用户可以轻松完成复杂的交易操作。
 
-The Aggregator's primary function is to direct users towards FTW, FEG's Peer-to-Peer platform, and seamlessly integrate their trading activities. This strategic alliance amplifies the benefits of both platforms, offering a holistic solution for token trading.
+### **未来展望**
 
-### **Gateway to a World of Possibilities**
-
-With the Aggregator, you gain access to the best prices on DEXs while driving traffic toward FTW, creating a synergistic ecosystem that enhances user convenience and cost-efficiency. The Aggregator is more than just a tool; it's a gateway to a world of more innovative, cost-effective token trading experiences.
-
-Shortly, the Aggregator will introduce a market-competitive fee integration, further solidifying its position as the go-to platform for seamless, affordable token trading.
-
-Embrace the transformative power of the Aggregator and embark on a journey of more innovative, cost-effective token trading.
-
+FEG 团队正在不断完善聚合器，以提供更多的功能和更好的用户体验。未来的更新将包括新功能和进一步的优化，敬请期待！
