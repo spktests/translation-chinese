@@ -1,15 +1,15 @@
-# ⌛ Upgrade FEGv1 in SS/LP
+# ⌛ 升级 FEGv1 在 SmartSwap/流动性池中
 
-There are still users with old FEG v1 stored in SmartSwap or Liquidity Pools on the old FEGex. The FEG team devised a solution to help them upgrade these locked funds.
+仍有用户在旧版 FEGex 的 SmartSwap 或流动性池中存有旧版 FEG v1 代币。FEG 团队制定了一个方案，帮助他们升级这些被锁定的资金。
 
-Due to their insecure nature, those smart contracts could not be added to the regular automatic Upgrade app that others use. Therefore, our developers built a special tool for users with FEG v1 in SmartSwap and LP to upgrade to the new contract. This tool is simple and easy to use.
+由于这些智能合约的不安全性，它们无法被添加到其他用户使用的常规自动升级应用中。因此，我们的开发人员为 SmartSwap 和流动性池中的 FEG v1 用户构建了一个专用工具，以便升级到新合约。此工具简单易用。
 
-You can find the SS & LP upgrade tool here: [https://sslp.fegtoken.com/](https://sslp.fegtoken.com/)
+您可以在此处找到 SmartSwap 和 LP 升级工具：[https://sslp.fegtoken.com/](https://sslp.fegtoken.com/)
 
-This tool burns your old tokens in SmartSwap and LP, making you eligible to be airdropped in the new FEG in exchange.
+此工具会烧毁您在 SmartSwap 和流动性池中的旧代币，使您符合条件以获得新的 FEG 空投作为交换。
 
-After using the tool, contact any of our admins in the Telegram support chat. Let them know you've used the tool and provide the hash for your burn transaction. Our admins will then place you on the list of people to be airdropped in the new FEG.
+使用此工具后，请在 Telegram 支持聊天中联系任何管理员。告诉他们您已使用该工具并提供您的燃烧交易哈希值。我们的管理员将把您列入新 FEG 空投名单。
 
 {% hint style="success" %}
-IMPORTANT: The airdrops are done in batches, about once every couple of months, so there will be a waiting period after you send the transaction hash.
+重要提示：空投是分批进行的，大约每隔几个月一次，因此在您发送交易哈希后将有一个等待期。
 {% endhint %}

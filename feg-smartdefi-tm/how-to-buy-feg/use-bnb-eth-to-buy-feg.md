@@ -1,44 +1,44 @@
-# Use BNB/ETH to buy FEG
+# 使用 BNB/ETH 购买 FEG
 
-### Contract Address for BASE / BNB / ETH
+### BASE / BNB / ETH 的合约地址
 
 ```
 0xF3c7CECF8cBC3066F9a87b310cEBE198d00479aC
 ```
 
-### Buy FEG on SmartDeFi.com on all chains
+### 在 SmartDeFi.com 上购买 FEG（适用于所有链）
 
 <figure><img src="../../.gitbook/assets/buy on FEGex.png" alt=""><figcaption></figcaption></figure>
 
-1. Open the Dapps browser within your wallet of choice
-2. Head over to [SmartDeFi.com](https://smartdefi.com) and connect your wallet
-3. Here, you can buy on all available blockchains; pick your preferred one
-4. Enter the amount of BNB/ETH you wish to use to buy FEG
-5. **Remember to leave some BNB/ETH in your wallet to cover the gas fees**
-6. When ready, click the "swap" button to initiate the trade
+1. 在您选择的钱包中打开 Dapps 浏览器
+2. 前往 [SmartDeFi.com](https://smartdefi.com) 并连接您的钱包
+3. 在这里，您可以选择在所有可用区块链上进行购买，选择您偏好的链
+4. 输入您想用来购买 FEG 的 BNB/ETH 数量
+5. **请记得在钱包中留一些 BNB/ETH 以支付燃气费**
+6. 准备好后，点击“交换”按钮以开始交易
 
-### Buy FEG with BNB on Pancakeswap
+### 使用 BNB 在 Pancakeswap 上购买 FEG
 
 <figure><img src="../../.gitbook/assets/buy FEG in PCS.png" alt=""><figcaption></figcaption></figure>
 
-1. Ensure you have enough BNB in your wallet for the purchase and the chain gas fees
-2. Open the Dapps browser within your wallet of choice
-3. Copy/paste this [direct link](https://pancakeswap.finance/swap?outputCurrency=0xF3c7CECF8cBC3066F9a87b310cEBE198d00479aC\&inputCurrency=) to take you to FEG's trading menu
-4. You may receive a warning, click on "I acknowledge risk" and proceed
-5. Adjust the slippage manually to ensure a successful trade. Click on the gear icon to access the slippage menu and enter at least 4% for buys and 9% for sales&#x20;
-6. Enter the amount of BNB you wish to exchange for FEG Token
-7. **Remember to leave some BNB in your wallet to cover the gas fees required by the Binance network**
-8. When ready, click the "swap" button to initiate the trade
+1. 确保您的钱包中有足够的 BNB 用于购买和链上的燃气费
+2. 在您选择的钱包中打开 Dapps 浏览器
+3. 复制并粘贴此[直接链接](https://pancakeswap.finance/swap?outputCurrency=0xF3c7CECF8cBC3066F9a87b310cEBE198d00479aC\&inputCurrency=)以进入 FEG 的交易页面
+4. 您可能会收到警告，点击“我承认风险”并继续
+5. 手动调整滑点以确保交易成功。点击齿轮图标进入滑点菜单，输入至少 4% 的买入滑点和 9% 的卖出滑点
+6. 输入您想要兑换 FEG 代币的 BNB 数量
+7. **请记得在钱包中留一些 BNB 以支付 Binance 网络的燃气费**
+8. 准备好后，点击“交换”按钮以开始交易
 
-### Buy FEG with ETH on Uniswap
+### 使用 ETH 在 Uniswap 上购买 FEG
 
 <figure><img src="../../.gitbook/assets/buy on ETH.png" alt=""><figcaption></figcaption></figure>
 
-1. Ensure you have ETH in your wallet for the purchase and the gas fees
-2. Open the Dapps browser within your wallet of choice
-3. Copy/paste this [direct link](https://app.uniswap.org/swap?outputCurrency=0xF3c7CECF8cBC3066F9a87b310cEBE198d00479aC\&inputCurrency=ETH) to take you to FEG's trading page on Uniswap
-4. You may receive a warning; click on "I understand" to advance
-5. Choose your preferred blockchain, like BASE _(low gas fees)_ or ETH _(extreme gas fees)_
-6. Enter the amount of ETH you wish to use to buy FEG
-7. **Remember to leave some ETH in your wallet to cover the transaction gas fees**
-8. When ready, click the "swap" button to initiate the trade.
+1. 确保您的钱包中有足够的 ETH 用于购买和支付燃气费
+2. 在您选择的钱包中打开 Dapps 浏览器
+3. 复制并粘贴此[直接链接](https://app.uniswap.org/swap?outputCurrency=0xF3c7CECF8cBC3066F9a87b310cEBE198d00479aC\&inputCurrency=ETH)以进入 Uniswap 上的 FEG 交易页面
+4. 您可能会收到警告，点击“我了解”以继续
+5. 选择您偏好的区块链，例如 BASE（低燃气费）或 ETH（高燃气费）
+6. 输入您想用来购买 FEG 的 ETH 数量
+7. **请记得在钱包中留一些 ETH 以支付交易的燃气费**
+8. 准备好后，点击“交换”按钮以开始交易。

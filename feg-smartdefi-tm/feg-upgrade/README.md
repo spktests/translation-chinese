@@ -1,79 +1,79 @@
----
-description: '📃Current FEG contract:  0xF3c7CECF8cBC3066F9a87b310cEBE198d00479aC'
+--- 
+description: '📃 当前 FEG 合约地址:  0xF3c7CECF8cBC3066F9a87b310cEBE198d00479aC'
 ---
 
-# 🔃 FEG Upgrade
+# 🔃 FEG 升级
 
 {% hint style="success" %}
-**Upgrade is LIVE at** [**SmartDeFi.com**](https://smartdefi.com)**!**
+**升级已上线，访问** [**SmartDeFi.com**](https://smartdefi.com)**！**
 {% endhint %}
 
-### Why Upgrade to FEG-SD V3?
+### 为什么要升级到 FEG-SD V3？
 
-FEG Token has been upgraded to our cutting-edge SmartDeFi technology, transforming it from a simple token into a powerful DeFi platform. This evolution brings a wealth of features, including a unified supply across multiple blockchains, bridging capabilities, asset backing, SmartLending, and a new staking system with immense potential for passive income, among other advancements.
+FEG 代币已升级到我们先进的 SmartDeFi 技术，将其从一个简单的代币转变为一个强大的 DeFi 平台。这一演变带来了丰富的功能，包括多个区块链的统一供应、跨链桥接、资产支持、SmartLending 和一个新的质押系统，提供巨大的被动收入潜力以及其他先进功能。
 
-### Upgrade FEG on Centralized Exchanges (CEXs)
+### 在中心化交易所（CEX）上升级 FEG
 
-If you had a previous version of FEG Token on a centralized exchange (CEX) platform like Gate, the migration process was automatic, and you didn't need to take any additional action.
+如果您在 Gate 等中心化交易所平台上拥有旧版 FEG 代币，迁移过程是自动完成的，您无需采取任何额外措施。
 
-### Upgrade FEG in your wallet
+### 在钱包中升级 FEG
 
-If you hold old FEG in your wallet, you can use our user-friendly upgrade UI for seamless token swapping by following these steps:
+如果您的钱包中持有旧版 FEG，可以使用我们用户友好的升级界面轻松进行代币转换，步骤如下：
 
-1. Visit the official page for the upgrade: [https://smartdefi.com](https://smartdefi.com)
-2. Find the Upgrade tab, which is designed to be intuitive and straightforward to use.
-3. Upgrade steps are similar across different platforms; you can use any DeFi wallet you prefer.
+1. 访问官方升级页面：[https://smartdefi.com](https://smartdefi.com)
+2. 找到“升级”标签，设计直观，易于使用。
+3. 各平台的升级步骤相似，您可以使用任何 DeFi 钱包。
 
 {% hint style="success" %}
-We have admins ready to guide you on our [support Telegram chat](https://support.fegtoken.com/).
+我们的管理员已准备好在 [支持 Telegram 聊天](https://support.fegtoken.com/)中为您提供指导。
 
-Remember to never respond to any direct messages (DMs) claiming to be from the FEG team, as those are 100% scams.
+请记住，切勿回复任何声称来自 FEG 团队的直接消息 (DM)，这些消息 100% 是骗局。
 {% endhint %}
 
-### How to Upgrade FEG
+### 如何升级 FEG
 
 <figure><img src="../../.gitbook/assets/feg upgrade without bridge.jpg" alt=""><figcaption></figcaption></figure>
 
-Visit [SmartDeFi.com](https://smartdefi.com/bsc/token/0xF3c7CECF8cBC3066F9a87b310cEBE198d00479aC/\(chart/secondary:upgrader\)) and connect your wallet. \
-On FEG's page, click on the "Upgrader" tab. Here, you will see the amount of FEG v1 (including staked) and FEG v2 that you own and the amount of new FEG you will receive in exchange for these old tokens.
+访问 [SmartDeFi.com](https://smartdefi.com/bsc/token/0xF3c7CECF8cBC3066F9a87b310cEBE198d00479aC/\(chart/secondary:upgrader\)) 并连接您的钱包。\
+在 FEG 页面上，点击“升级器”标签。在这里，您将看到自己拥有的 FEG v1（包括已质押的）和 FEG v2 数量，以及您将收到的新 FEG 数量，用于替换这些旧代币。
 
-Click "Approve" and after transaction executes, refresh page to make sure, then hit the "Upgrade all" button to give your old tokens and receive new ones in exchange.
+点击“批准”，交易完成后刷新页面确认，然后点击“全部升级”按钮，用旧代币换取新代币。
 
 {% hint style="info" %}
-Note that you may only perform the upgrade once per wallet! \
-If you want to use the upgrader again, use a different wallet !
+请注意，每个钱包只能执行一次升级！\
+如果您想再次使用升级器，请使用其他钱包！
 {% endhint %}
 
-#### Sidenote about upgrading
+#### 升级附注
 
-You can also choose to upgrade and then have your new FEG bridged to another chain. \
-The upgrade tool will take your old owned FEG and unlock the new FEG on your chosen chain.
+您还可以选择升级并将新 FEG 跨链桥接到其他链。\
+升级工具将提取您拥有的旧版 FEG，并在您选择的链上解锁新的 FEG。
 
-You will then need to withdraw your upgraded FEG on the other chain you chose. \
-To do so, change the network in your wallet, click the "Bridge" tab, then the "Withdrawals" tab, and finally click the "Withdraw" button.&#x20;
+然后，您需要在选择的链上提取升级后的 FEG。\
+为此，请在钱包中切换网络，点击“桥接”标签，然后点击“提取”标签，最后点击“提取”按钮。
 
 <figure><img src="../../.gitbook/assets/withdraw upgraded FEG.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
-Remember, you need native coins for gas fees on the origin and destination chains.
+请记住，您需要在源链和目标链上使用原生代币支付燃气费。
 
-Gas fees for bridge use are higher than normal transactions!
+使用桥接的燃气费高于普通交易！
 {% endhint %}
 
-With just a few clicks, you upgraded your FEG tokens and bridged to a new chain.
+只需点击几下，您便已完成 FEG 代币升级并跨链桥接。
 
-### General info about upgrading
+### 升级的常规信息
 
-* If your FEG v2 was staked, your tokens were automatically upgraded. You'll see your new FEG tokens securely staked when you check the staking page.
-* If your FEG v2 was not staked and held in your wallet, you must manually upgrade your tokens. You can also bridge your new FEG to another chain during this process.
-* If you still have old FEG v1 _(staked or not),_ you must manually upgrade and choose your desired blockchain where to receive the new FEG. Note that FEG v1 to v3 is a 1.000.000:1 ratio, but don't worry, you'll own precisely the same _percentage_ of FEG; as such, you won't lose any money
+* 如果您的 FEG v2 已质押，您的代币将自动升级。在质押页面检查时，您将看到新的 FEG 代币已安全地质押。
+* 如果您的 FEG v2 未质押并保存在钱包中，您必须手动升级代币。在此过程中，您还可以将新的 FEG 跨链桥接到其他链上。
+* 如果您仍然持有旧版 FEG v1（无论是否质押），则必须手动升级并选择接收新 FEG 的区块链。请注意，FEG v1 升级到 v3 的比例为 1,000,000:1，但您将持有相同的 FEG 百分比，因此不会损失任何资金。
 
-### The end time for the upgrade
+### 升级的结束时间
 
-The upgrade from the old FEG to the new FEG is open-ended and does not have a set end time.\
-When the team decides on a conclusion time, you will find that info here.
+从旧版 FEG 到新版 FEG 的升级是开放式的，没有设定的结束时间。\
+当团队决定结束时间时，您将在此处找到相关信息。
 
-### Old FEG addresses
+### 旧 FEG 地址
 
 ```
 FEGv2 on BNB & ETH // 0xbededDf2eF49E87037c4fb2cA34d1FF3D3992A11

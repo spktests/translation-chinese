@@ -1,30 +1,30 @@
-# Getting BNB/ETH
+# 获取 BNB/ETH
 
 {% hint style="info" %}
-To buy ANYTHING on a blockchain, you'll first need to own the native coin of said chain.
+要在区块链上购买任何资产，您首先需要拥有该链的原生代币。
 {% endhint %}
 
-To buy FEG on the BNB chain, you need BNB; on the ETH chain, you need ETH; on the BASE chain, you need ETH on Base.
+要在 BNB 链上购买 FEG，您需要 BNB；在 ETH 链上，您需要 ETH；在 BASE 链上，您需要 BASE 链上的 ETH。
 
-### If you are using SafePal:
+### 如果您使用的是 SafePal：
 
-\- navigate to the home screen of your SafePal wallet.\
-\- select the BNB BEP20 asset.\
-\- click the "Buy" button to initiate the purchase through [Simplex](https://www.simplex.com/) using your credit card
+\- 导航到 SafePal 钱包的主屏幕。\
+\- 选择 BNB BEP20 资产。\
+\- 点击“购买”按钮，通过 [Simplex](https://www.simplex.com/) 使用信用卡进行购买
 
 {% hint style="info" %}
-Please ensure you have the necessary identification documents ready for KYC verification during this step to prove your identity.
+请确保在此步骤中准备好必要的身份证明文件，以便通过 KYC 验证来证明您的身份。
 {% endhint %}
 
-![Example: Buying BNB through Safepal.](<../../.gitbook/assets/safepal buy bnb.png>)
+![示例：通过 SafePal 购买 BNB.](<../../.gitbook/assets/safepal buy bnb.png>)
 
-### If you are using MetaMask:
+### 如果您使用的是 MetaMask：
 
-\- Access the home screen of your MetaMask wallet.\
-\- Choose the BNB asset.\
-\- Click on the "Buy" button to purchase through [Transak](https://transak.com/) using your credit card
+\- 访问 MetaMask 钱包的主屏幕。\
+\- 选择 BNB 资产。\
+\- 点击“购买”按钮，通过 [Transak](https://transak.com/) 使用信用卡进行购买
 
-### Google and Apple Pay
+### Google Pay 和 Apple Pay
 
-You can also buy ETH and BNB from many other places. One popular platform is [MoonPay](https://www.moonpay.com/), which offers the possibility of buying using Google Pay, Apple Pay, Mastercard, and Visa credit cards.\
-Please double-check the receiving wallet address before confirming any transaction to avoid any potential errors and sending funds to the wrong wallet.
+您还可以在许多其他平台上购买 ETH 和 BNB。一个常用平台是 [MoonPay](https://www.moonpay.com/)，它支持 Google Pay、Apple Pay、Mastercard 和 Visa 信用卡购买。\
+在确认任何交易前，请仔细检查接收钱包地址，以避免可能的错误并确保资金不会发送到错误的钱包。

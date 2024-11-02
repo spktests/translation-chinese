@@ -1,50 +1,50 @@
-# ↔️ ROX to FEG
+# ↔️ ROX 转换为 FEG
 
-### The Vesting Plan&#x20;
+### 归属计划
 
-In 2022, we decided to merge ROX into FEG to streamline our ecosystem and enhance value for our investors. All ROX holders have received FEG tokens in exchange. These tokens can be claimed over a 25-month vesting period, with 4% of their holdings released monthly. Investors have the flexibility to claim their 4% monthly or accumulate their claims, for example, over 5 months to claim 20% at once, minimizing gas fees.
+在 2022 年，我们决定将 ROX 合并到 FEG 中，以简化我们的生态系统并提升投资者的价值。所有 ROX 持有者均已获得 FEG 代币作为交换。这些代币可以在 25 个月的归属期内领取，每月释放其持有量的 4%。投资者可以每月领取 4%，也可以累积多个月的归属（例如 5 个月后一次性领取 20%），以减少燃气费开支。
 
 {% hint style="warning" %}
-Claims are not subject to any taxation however, you DO have to pay the blockchain gas fees to execute transactions, so keep that in mind, especially on ETH
+领取不收取任何税费，但您仍需支付区块链的燃气费用来执行交易，尤其是在 ETH 上要特别注意这一点。
 {% endhint %}
 
-### Claims
+### 领取情况
 
-Latest batch:  claim #4 of 4% was released on September 1st, 2024.
+最新批次：第 4 次 4% 领取已于 2024 年 9 月 1 日发布。
 
-Batches released so far that you can claim in one transaction:   16%
+至今已发布批次，可在一次交易中领取：16%
 
-### The ratio of ROX to FEG&#x20;
+### ROX 对 FEG 的转换比例
 
-BSC →   1 ROX = 3,812,101.67910245 FEG\
-ETH →   1 ROX = 3,412,864.15305551 FEG\
-You can also use [https://calc.fegtoken.com/](https://calc.fegtoken.com/) to make it easier.
+BSC → 1 ROX = 3,812,101.67910245 FEG\
+ETH → 1 ROX = 3,412,864.15305551 FEG\
+您也可以使用 [https://calc.fegtoken.com/](https://calc.fegtoken.com/) 方便地进行计算。
 
-### How to upgrade ROX to FEG
+### 如何将 ROX 升级为 FEG
 
 <figure><img src="../../.gitbook/assets/ROX to FEG.jpg" alt=""><figcaption></figcaption></figure>
 
-Visit SmartDeFi.com and connect your wallet. Click on the "Upgrader" tab on the FEG page, then select the "ROX Convert" tab. Here, you will see the number of ROX tokens linked to your wallet and the number of new FEG you will receive in exchange.\
-To complete the upgrade, click the "Approve" button, then the "Upgrade" button.
+访问 SmartDeFi.com 并连接您的钱包。点击 FEG 页面上的“升级器”标签，然后选择“ROX 转换”标签。在此页面上，您将看到与钱包关联的 ROX 数量以及作为交换将收到的新 FEG 数量。\
+要完成升级，点击“批准”按钮，然后点击“升级”按钮。
 
-### Note you can also Upgrade + Bridge
+### 注意您还可以选择升级并桥接
 
-If you want, you can have your new FEG to be delivered or bridged to another chain, like BASE for example. This means the upgrader will convert your old ROX tokens on the current chain and unlock the new FEG on your chosen chain. \
-To start the upgrade process, pick your desired chain, click the "Approve" button, then the "Upgrade" button.
+如果您愿意，可以选择将新 FEG 发送或桥接到另一个链上，例如 BASE。这样，升级器将转换当前链上的旧 ROX 代币并在您选择的链上解锁新 FEG。\
+开始升级过程，选择您想要的链，点击“批准”按钮，然后点击“升级”按钮。
 
-To withdraw your new FEG on the chosen chain, first change the network in your wallet, go to the "Bridge" tab, then the "Withdrawals" tab, and click the "Withdraw" button.
+要在所选链上提取新的 FEG，首先在钱包中切换网络，前往“桥接”标签，然后点击“提取”标签，最后点击“提取”按钮。
 
 <figure><img src="../../.gitbook/assets/withdraw upgraded FEG.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
-Remember, you need native coins for gas fees on the origin and destination chains.
+请记住，您需要在源链和目标链上使用原生代币支付燃气费。
 
-Gas fees for bridge use are higher than normal transactions !
+使用桥接的燃气费高于普通交易！
 {% endhint %}
 
-And that's it! You've successfully upgraded ROX to FEG and bridged to another chain in just a few clicks. It's simple and easy.
+这样就完成了！只需几步操作，您就成功将 ROX 升级为 FEG 并桥接到其他链上。
 
-### Old ROX addresses
+### 旧 ROX 地址
 
 ```
 ROX on BSC // 0xa3D522c151aD654b36BDFe7a69D0c405193A22F9
@@ -54,45 +54,45 @@ ROX on BSC // 0xa3D522c151aD654b36BDFe7a69D0c405193A22F9
 ROX on ETH // 0x378c77C5379cA07BBB5B3506c08a1C769dEC91c2
 ```
 
-## FAQ
+## 常见问题解答
 
-### Are claims automatic or manual?
+### 领取是自动的还是手动的？
 
-It is manual, and you need to use the upgrade tool on [SmartDeFi.com](https://smartdefi.com) to claim your FEG.
+是手动的，您需要使用 [SmartDeFi.com](https://smartdefi.com) 上的升级工具来领取 FEG。
 
-### How do I receive FEG?
+### 我如何收到 FEG？
 
-On every claim, you have 3 options to choose from related to where you receive the new FEG:
+在每次领取时，您可以选择以下 3 种方式接收新的 FEG：
 
-1. claim FEG in a wallet on the current chain
-2. claim FEG in a wallet to the chain of choice (BSC/ETH/BASE)
-3. claim and auto-stake on the current chain
+1. 在当前链上的钱包中领取 FEG
+2. 将 FEG 领取到选定链上的钱包（BSC/ETH/BASE）
+3. 在当前链上领取并自动质押
 
-### How was the ratio of ROX and FEG calculated?
+### ROX 和 FEG 的比率是如何计算的？
 
-We established the ratio using the opening prices of FEG and ROX on May 15, 2022. The value of ROX and FEG was calculated by dividing the number of native coins (ETH or BNB) paid by the number of tokens (FEG or ROX) received. To determine how much FEG one ROX yields, we divided the native coin value of one ROX by the native coin value of one FEG. In simple terms, this ratio represents the amount of FEG you could have bought for the same price as one ROX.
+我们使用 FEG 和 ROX 在 2022 年 5 月 15 日的开盘价格确定了比率。ROX 和 FEG 的价值通过将支付的原生币数量（ETH 或 BNB）除以接收到的代币数量（FEG 或 ROX）来计算。要确定 1 个 ROX 可以兑换多少 FEG，我们将 1 个 ROX 的原生币价值除以 1 个 FEG 的原生币价值。简单来说，这一比率代表了您可以用购买 1 个 ROX 的价格买到的 FEG 数量。
 
-BSC Open Transactions\
+BSC 开盘交易\
 **ROX**: 0x1a0e998a173ef8b395513f85a44b5abd8db2c9f7a79daf19f477165015843504\
 **FEG**: 0x190b55b45916e4c79a98d061d2edd16c8cf67f119fa3544e0273e6f6b6ee1cd0
 
-ETH Open Transactions\
-**ROX** 0x883c756fe5be2182b5e45f80286f8d4c7e2eea23eebe1e15ea53d66932aee026\
+ETH 开盘交易\
+**ROX**: 0x883c756fe5be2182b5e45f80286f8d4c7e2eea23eebe1e15ea53d66932aee026\
 **FEG**: 0x0f58396870514f4419ed542dfada345b299971a43f186f1bfc6ea8d29c838bd5\
-\*  Note: On May 15, ONLY one ROX ETH transaction – Was used as the open price.
+\* 注意：5 月 15 日，唯一的 ROX ETH 交易作为开盘价格使用。
 
-### Why use pre-exploit instead of post-exploit values for FEG
+### 为什么使用事发前而非事发后的 FEG 价值？
 
-Using pre-exploit variables for both tokens was considered the most logical approach, essentially creating a 'snapshot' of market conditions before either exploit occurred. While ROX would have faced the same market conditions as FEG post-exploit, we avoided speculating on price and circulating supply. Instead, we relied on raw data from the blockchain rather than arbitrary figures.
+使用事发前的变量被认为是最合理的做法，这相当于创建了一个市场状况的“快照”。尽管 ROX 在事发后会面临与 FEG 相同的市场条件，但我们避免了对价格和流通供应的猜测，而是依赖于区块链上的原始数据，而非人为数字。
 
-### Why not use ROX and FEG liquidity pools to determine ratio
+### 为什么不使用 ROX 和 FEG 的流动性池来确定比率？
 
-We chose not to use this method for two primary reasons:
+我们选择不使用此方法的两个主要原因是：
 
-1\.   FEG did not have an asset-backed LP like ROX. While ROX benefited from having both an asset-backed LP and a market LP, FEG only had a market LP. Therefore, using LPs to determine the ratio would have been unfair, as FEG could not leverage the same asset-backing technology that benefited ROX.
+1. FEG 没有像 ROX 那样的资产支持流动性池。ROX 享有资产支持 LP 和市场 LP，而 FEG 仅有市场 LP。因此，使用 LP 确定比率对 FEG 来说不公平，因为 FEG 无法利用 ROX 受益的相同资产支持技术。
 
-2\.   To avoid heavily diluting FEG investors, we considered the total LP for both tokens. The LP for ROX BSC was approximately 2.23 times greater than for FEG BSC, and the LP for FEG ETH was about 1.42 times greater than for ROX ETH. Using these metrics, ROX BSC holders would have owned 69% of the new FEG V2 supply, and ROX ETH holders would have owned 41%. Such a significant ownership discrepancy across the chains would have been unfair to FEG holders and could have put the project at risk.
+2. 为避免大幅稀释 FEG 投资者的份额，我们考量了两个代币的总 LP。ROX BSC 的 LP 大约是 FEG BSC 的 2.23 倍，而 FEG ETH 的 LP 大约是 ROX ETH 的 1.42 倍。使用这些指标，ROX BSC 持有者将拥有新 FEG V2 供应量的 69%，ROX ETH 持有者将拥有 41%。这样的所有权差异会对 FEG 持有者不公平，并可能使项目面临风险。
 
-·         BSC LPs → ROX = 5672 BNB; FEG = 2544 BNB
+· BSC LP → ROX = 5672 BNB；FEG = 2544 BNB
 
-·         ETH LPs → ROX = 425 ETH; FEG = 604 ETH
+· ETH LP → ROX = 425 ETH；FEG = 604 ETH
