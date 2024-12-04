@@ -1,4 +1,4 @@
-# 目录
+# Table of contents
 
 ## 欢迎
 
@@ -7,18 +7,18 @@
 
 ## FEG SmartDeFi ™
 
-* [🙊 关于 FEG 代币](feg-smartdefi-tm/about-feg-token/README.md)
-  * [📈 FEG 代币经济](feg-smartdefi-tm/about-feg-token/feg-tokenomics.md)
-* [🔃 FEG 升级](feg-smartdefi-tm/feg-upgrade/README.md)
-  * [↔️ ROX 转 FEG](feg-smartdefi-tm/feg-upgrade/rox-to-feg.md)
-  * [⌛ 升级 FEGv1 在 SS/LP 中](feg-smartdefi-tm/feg-upgrade/upgrade-fegv1-in-ss-lp.md)
-* [💳 如何购买 FEG](feg-smartdefi-tm/how-to-buy-feg/README.md)
-  * [创建加密钱包](feg-smartdefi-tm/how-to-buy-feg/create-a-crypto-wallet.md)
-  * [获取 BNB/ETH](feg-smartdefi-tm/how-to-buy-feg/getting-bnb-eth.md)
-  * [使用 BNB/ETH 购买 FEG](feg-smartdefi-tm/how-to-buy-feg/use-bnb-eth-to-buy-feg.md)
-* [💰 FEG 抵押](feg-smartdefi-tm/feg-staking/README.md)
-  * [🔀 FEG 抵押导航](feg-smartdefi-tm/feg-staking/navigate.md)
-* [💸 流动性债券](feg-smartdefi-tm/liquidity-bonds.md)
+* [🙊 关于 FEG 代币](feg-smartdefi-tm/guan-yu-feg-dai-bi/README.md)
+  * [📈 FEG 代币经济](feg-smartdefi-tm/guan-yu-feg-dai-bi/feg-dai-bi-jing-ji.md)
+* [🔃 FEG 升级](feg-smartdefi-tm/feg-sheng-ji/README.md)
+  * [↔️ ROX 转 FEG](feg-smartdefi-tm/feg-sheng-ji/rox-zhuan-feg.md)
+  * [⌛ 升级 FEGv1 在 SS/LP 中](feg-smartdefi-tm/feg-sheng-ji/sheng-ji-fegv1-zai-sslp-zhong.md)
+* [💳 如何购买 FEG](feg-smartdefi-tm/ru-he-gou-mai-feg/README.md)
+  * [创建加密钱包](feg-smartdefi-tm/ru-he-gou-mai-feg/chuang-jian-jia-mi-qian-bao.md)
+  * [获取 BNB/ETH](feg-smartdefi-tm/ru-he-gou-mai-feg/huo-qu-bnbeth.md)
+  * [使用 BNB/ETH 购买 FEG](feg-smartdefi-tm/ru-he-gou-mai-feg/shi-yong-bnbeth-gou-mai-feg.md)
+* [💰 FEG 抵押](feg-smartdefi-tm/feg-di-ya/README.md)
+  * [🔀 FEG 抵押导航](feg-smartdefi-tm/feg-di-ya/feg-di-ya-dao-hang.md)
+* [💸 流动性债券](feg-smartdefi-tm/liu-dong-xing-zhai-quan.md)
 
 ## SmartDeFi 平台
 
